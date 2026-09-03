@@ -1,0 +1,1001 @@
+transaction_id,customer_name,customer_email,amount,currency,status,payment_method,failure_code,failure_reason,timestamp
+txn_c339972b7d014260,Jordan Smith,jordan.smith67@outlook.com,197.42,USD,succeeded,credit_card,,,2026-08-25T10:26:45.525471Z
+txn_4b77706d01204a0c,Alex Davis,alex.davis62@outlook.com,36.43,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-07T18:57:58.525471Z
+txn_a8a5d6351bb1423e,Jamie Davis,jamie.davis75@startup.io,24.58,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-11T17:05:39.525471Z
+txn_dff334fa6c1e4519,Alex Martinez,alex.martinez43@startup.io,25.87,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-23T06:31:56.525471Z
+txn_4ec62140039c4a09,Taylor Jones,taylor.jones46@company.com,209.17,USD,succeeded,bank_transfer,,,2026-08-13T08:06:34.525471Z
+txn_a2926cd7e16c439b,Quinn Rodriguez,quinn.rodriguez77@gmail.com,12.23,USD,succeeded,credit_card,,,2026-07-01T00:03:48.525471Z
+txn_b18b6be19ce74ae0,Cameron Williams,cameron.williams71@gmail.com,19.79,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-06T22:45:55.525471Z
+txn_f181a099e2424d10,Avery Miller,avery.miller82@startup.io,37.23,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-28T01:42:33.525471Z
+txn_ad995b11539b445e,Riley Williams,riley.williams7@company.com,212.63,USD,succeeded,bank_transfer,,,2026-08-18T05:09:01.525471Z
+txn_49a9c8a7ed9a49ff,Jamie Martinez,jamie.martinez54@startup.io,2450.89,USD,succeeded,credit_card,,,2026-06-19T00:01:08.525471Z
+txn_d31452bd8eea40fc,Jordan Brown,jordan.brown14@hotmail.com,26.58,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-24T08:17:52.525471Z
+txn_2754e905f0f24f80,Cameron Davis,cameron.davis27@startup.io,194.95,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-04T07:05:38.525471Z
+txn_40844c353f6c446c,Casey Garcia,casey.garcia99@hotmail.com,29.77,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-08T23:36:07.525471Z
+txn_2d0dac7b91f44ee3,Riley Miller,riley.miller32@company.com,39.18,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-07T08:20:36.525471Z
+txn_9025625b1ea34057,Peyton Miller,peyton.miller57@yahoo.com,24.64,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-08-05T12:16:59.525471Z
+txn_4b2df8c4b66e4679,Taylor Williams,taylor.williams26@gmail.com,12.70,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-11T11:22:51.525471Z
+txn_649ab71fb7b0448e,Quinn Martinez,quinn.martinez20@gmail.com,146.15,USD,succeeded,credit_card,,,2026-06-18T09:54:57.525471Z
+txn_c98bb99d22d44331,Morgan Brown,morgan.brown38@yahoo.com,163.04,USD,succeeded,wallet,,,2026-07-24T02:12:54.525471Z
+txn_eb5724f8410142ac,Cameron Jones,cameron.jones79@yahoo.com,276.52,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-24T09:26:10.525471Z
+txn_3e3ac290891d4da2,Cameron Davis,cameron.davis70@company.com,42.82,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-01T03:56:27.525471Z
+txn_0a187a8be7564d9f,Riley Brown,riley.brown14@gmail.com,32.38,USD,succeeded,credit_card,,,2026-07-12T10:36:53.525471Z
+txn_b2367ee9b817487d,Skyler Williams,skyler.williams32@hotmail.com,18.66,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-06-07T14:43:23.525471Z
+txn_0ee19c9737a34bce,Morgan Miller,morgan.miller45@gmail.com,112.32,USD,succeeded,credit_card,,,2026-07-24T16:20:57.525471Z
+txn_dfcd9096fcca4c36,Skyler Johnson,skyler.johnson15@yahoo.com,84.90,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-10T05:45:37.525471Z
+txn_15a0204faefa4bad,Cameron Martinez,cameron.martinez91@yahoo.com,39.70,USD,succeeded,credit_card,,,2026-08-17T03:58:16.525471Z
+txn_1216aa4889264ed7,Casey Williams,casey.williams94@hotmail.com,36.72,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-06-05T16:18:35.525471Z
+txn_9f39468005744982,Peyton Davis,peyton.davis79@gmail.com,85.81,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-10T23:19:19.525471Z
+txn_9c94aeb77b3b407b,Morgan Miller,morgan.miller90@startup.io,135.11,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-27T08:26:27.525471Z
+txn_e7f1ce80fbe7451f,Skyler Johnson,skyler.johnson20@gmail.com,171.84,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-08-07T20:41:37.525471Z
+txn_be493917ed704bc7,Skyler Smith,skyler.smith75@hotmail.com,24.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-05T02:46:58.525471Z
+txn_5b3702dd667a469d,Quinn Brown,quinn.brown33@outlook.com,13.81,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-07T07:51:19.525471Z
+txn_56b57b5b2f2d4c5e,Peyton Johnson,peyton.johnson52@outlook.com,21.71,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-03T05:41:33.525471Z
+txn_9559435ab30c4948,Morgan Davis,morgan.davis93@company.com,21.05,USD,succeeded,credit_card,,,2026-06-29T23:01:52.525471Z
+txn_2b0ded0c3d0f4477,Jamie Rodriguez,jamie.rodriguez12@hotmail.com,28.17,USD,succeeded,credit_card,,,2026-08-03T17:26:46.525471Z
+txn_2cbab715b6c94eb5,Jamie Jones,jamie.jones70@outlook.com,38.61,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-16T04:28:05.525471Z
+txn_8a650ec9c3044cbe,Taylor Brown,taylor.brown63@outlook.com,27.60,USD,failed,debit_card,expired_card,The card has expired.,2026-09-02T19:03:11.525471Z
+txn_ec18d029202349e6,Peyton Johnson,peyton.johnson82@startup.io,22.33,USD,succeeded,credit_card,,,2026-08-24T21:28:44.525471Z
+txn_926759e357ba4226,Casey Garcia,casey.garcia48@hotmail.com,96.93,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-08T23:38:46.525471Z
+txn_eeddaba0559d4c11,Avery Jones,avery.jones51@hotmail.com,245.97,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-24T20:09:38.525471Z
+txn_24c8727d4a034f56,Riley Jones,riley.jones95@outlook.com,200.98,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-11T12:22:32.525471Z
+txn_6172a0ef03f941f2,Jordan Davis,jordan.davis80@yahoo.com,15.25,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-07-22T11:56:19.525471Z
+txn_c4cbec4c864648b5,Riley Martinez,riley.martinez33@hotmail.com,25.32,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-13T09:51:25.525471Z
+txn_d4afd7bb6b974f9f,Morgan Johnson,morgan.johnson38@startup.io,17.40,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-29T20:11:51.525471Z
+txn_c87eba11015748d7,Alex Smith,alex.smith62@startup.io,24.99,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-08-28T07:18:43.525471Z
+txn_d2434a79bd7c4f93,Taylor Garcia,taylor.garcia31@startup.io,43.90,USD,succeeded,credit_card,,,2026-07-14T17:29:55.525471Z
+txn_b68afe5ba4c14ff8,Cameron Williams,cameron.williams25@yahoo.com,22.33,USD,succeeded,credit_card,,,2026-06-16T01:34:02.525471Z
+txn_f6590d0303754fa9,Jamie Garcia,jamie.garcia10@startup.io,2174.83,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-21T14:35:21.525471Z
+txn_8eebfc5c10724480,Casey Jones,casey.jones5@yahoo.com,146.67,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-06-26T21:43:45.525471Z
+txn_e60422650f28420f,Morgan Garcia,morgan.garcia1@hotmail.com,21.18,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-13T15:26:19.525471Z
+txn_b99568cd2ef24387,Cameron Martinez,cameron.martinez93@yahoo.com,101.95,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T03:09:02.525471Z
+txn_6ae5335a19444a83,Taylor Martinez,taylor.martinez2@gmail.com,17.15,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-09T08:02:10.525471Z
+txn_e6184b7d6a7e47db,Peyton Jones,peyton.jones68@gmail.com,26.89,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-16T07:53:35.525471Z
+txn_b668246b346442c2,Jordan Miller,jordan.miller70@startup.io,21.46,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-15T14:51:39.525471Z
+txn_0e5d51f81cfe4577,Skyler Brown,skyler.brown91@company.com,47.38,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-22T17:24:20.525471Z
+txn_bf64e3b7df804039,Jordan Rodriguez,jordan.rodriguez93@yahoo.com,33.71,USD,succeeded,wallet,,,2026-06-09T16:57:30.525471Z
+txn_dde3d4f0836f45d1,Cameron Johnson,cameron.johnson81@gmail.com,1966.65,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-13T08:45:04.525471Z
+txn_901bfabc2d1841f6,Riley Smith,riley.smith26@gmail.com,16.44,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-19T22:49:21.525471Z
+txn_8b3cff3c9c5e42fb,Avery Williams,avery.williams40@company.com,33.55,USD,succeeded,credit_card,,,2026-06-17T14:45:41.525471Z
+txn_dc9b7104e4744bb9,Peyton Williams,peyton.williams95@yahoo.com,32.97,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-28T17:18:58.525471Z
+txn_9b346dbc739d4c29,Jordan Miller,jordan.miller50@startup.io,16.77,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-11T08:10:24.525471Z
+txn_00336ec3991c4cdd,Morgan Garcia,morgan.garcia43@hotmail.com,1320.91,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T21:28:29.525471Z
+txn_b8786e20c1cc4411,Skyler Williams,skyler.williams26@hotmail.com,32.98,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-13T03:46:46.525471Z
+txn_9711ef8dc5ef4e48,Cameron Davis,cameron.davis43@gmail.com,10.33,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-08-06T19:34:46.525471Z
+txn_db7dcf7c097942d4,Morgan Miller,morgan.miller17@yahoo.com,1459.63,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-29T06:25:42.525471Z
+txn_19d4009028324292,Cameron Smith,cameron.smith12@hotmail.com,29.75,USD,failed,bank_transfer,stolen_card,The card is reported lost or stolen.,2026-08-12T18:54:10.525471Z
+txn_5d85dfcc785844e9,Quinn Garcia,quinn.garcia25@company.com,40.97,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-02T12:39:54.525471Z
+txn_5966137f2eab494d,Casey Davis,casey.davis24@yahoo.com,97.78,USD,succeeded,credit_card,,,2026-06-07T03:36:27.525471Z
+txn_5f539c371db74cdd,Alex Johnson,alex.johnson23@outlook.com,1176.64,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-26T13:01:45.525471Z
+txn_9ed2fb33bcf3483b,Avery Brown,avery.brown83@outlook.com,13.62,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-16T17:51:21.525471Z
+txn_e88a9b0d339b497f,Cameron Brown,cameron.brown58@hotmail.com,102.24,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-24T11:36:31.525471Z
+txn_ffe80c1e6d3348d7,Alex Brown,alex.brown36@hotmail.com,215.76,USD,succeeded,debit_card,,,2026-06-23T05:47:43.525471Z
+txn_a5b4e695697e4066,Quinn Miller,quinn.miller19@outlook.com,2157.71,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T07:49:32.525471Z
+txn_8e3dd51005844421,Jamie Johnson,jamie.johnson81@hotmail.com,32.52,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T14:35:01.525471Z
+txn_252b8cb2258c46ad,Avery Johnson,avery.johnson87@company.com,11.73,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-01T22:01:18.525471Z
+txn_4b94e044f7d341ea,Jamie Miller,jamie.miller86@company.com,28.39,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T16:26:25.525471Z
+txn_174a4672b42f404a,Alex Brown,alex.brown56@yahoo.com,31.52,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-08-05T21:52:39.525471Z
+txn_e2dbdcc8221248ed,Morgan Garcia,morgan.garcia7@yahoo.com,44.67,USD,succeeded,credit_card,,,2026-08-23T06:57:01.525471Z
+txn_2bfcfa1de01c4b37,Cameron Martinez,cameron.martinez29@yahoo.com,24.03,USD,failed,credit_card,expired_card,The card has expired.,2026-06-21T03:37:50.525471Z
+txn_4b270cd2c66a413a,Quinn Davis,quinn.davis10@gmail.com,59.73,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-01T18:30:58.525471Z
+txn_c0a6782a643f4635,Quinn Brown,quinn.brown94@outlook.com,16.18,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-29T18:58:59.525471Z
+txn_e76de07188dc46dd,Jamie Williams,jamie.williams50@gmail.com,126.54,USD,succeeded,debit_card,,,2026-06-11T00:09:10.525471Z
+txn_dca86fcb481b49cb,Jamie Smith,jamie.smith98@yahoo.com,142.52,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-31T03:34:50.525471Z
+txn_38044759aded4ae5,Casey Williams,casey.williams90@startup.io,19.97,USD,succeeded,credit_card,,,2026-06-24T08:25:50.525471Z
+txn_56f4b637f07649cf,Jordan Davis,jordan.davis89@outlook.com,36.83,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-24T01:02:08.525471Z
+txn_aeee00d843224fc9,Skyler Johnson,skyler.johnson1@yahoo.com,240.85,USD,succeeded,credit_card,,,2026-08-10T00:17:25.525471Z
+txn_4137e2480fdc487b,Peyton Williams,peyton.williams15@gmail.com,39.33,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-04T03:18:17.525471Z
+txn_77116e68b31045fd,Peyton Davis,peyton.davis14@outlook.com,227.42,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-08-27T02:25:10.525471Z
+txn_953c30761834404e,Peyton Jones,peyton.jones45@startup.io,41.87,USD,succeeded,credit_card,,,2026-07-25T23:25:24.525471Z
+txn_7ccd323151bd4423,Peyton Smith,peyton.smith60@yahoo.com,248.18,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-02T18:31:44.525471Z
+txn_3bca281c7842416c,Peyton Williams,peyton.williams98@yahoo.com,29.21,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-17T10:03:48.525471Z
+txn_4daf3bb43a2c4459,Alex Johnson,alex.johnson92@startup.io,44.07,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-08T06:19:36.525471Z
+txn_d754433540694553,Quinn Smith,quinn.smith11@outlook.com,17.16,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-14T16:39:56.525471Z
+txn_b9b0d518baed4314,Alex Smith,alex.smith17@company.com,31.92,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-06-14T20:11:09.525471Z
+txn_7c1b4b35fe0d4a07,Alex Garcia,alex.garcia56@outlook.com,34.34,USD,failed,credit_card,expired_card,The card has expired.,2026-07-28T01:19:14.525471Z
+txn_4466b17eea51446a,Skyler Miller,skyler.miller46@hotmail.com,2222.59,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-28T22:11:31.525471Z
+txn_9b6f033b92a44dd7,Alex Brown,alex.brown12@gmail.com,38.18,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-11T22:25:28.525471Z
+txn_023708c98b0b43e5,Cameron Smith,cameron.smith52@outlook.com,1875.09,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-23T22:22:13.525471Z
+txn_b66839500c0341b4,Peyton Rodriguez,peyton.rodriguez66@gmail.com,14.64,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-19T20:59:24.525471Z
+txn_868c32b819324d19,Cameron Garcia,cameron.garcia43@hotmail.com,185.82,USD,succeeded,bank_transfer,,,2026-06-06T17:18:07.525471Z
+txn_3b125656b2b849e6,Riley Jones,riley.jones84@startup.io,91.26,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-07T09:50:47.525471Z
+txn_d9014ba32521401c,Taylor Garcia,taylor.garcia22@gmail.com,42.54,USD,succeeded,debit_card,,,2026-06-18T05:12:11.525471Z
+txn_7e5d63927ad44d2d,Taylor Smith,taylor.smith13@startup.io,142.88,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-08-01T23:12:41.525471Z
+txn_d4f47d89de734eca,Avery Smith,avery.smith68@startup.io,164.57,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-30T04:45:57.525471Z
+txn_25f119236bfe428c,Riley Johnson,riley.johnson12@company.com,94.44,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-25T21:10:54.525471Z
+txn_f4ce2a21294f402b,Jordan Brown,jordan.brown51@startup.io,22.07,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-27T02:38:04.525471Z
+txn_7aac0cb60c3d46b2,Casey Martinez,casey.martinez9@outlook.com,41.37,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-13T10:56:31.525471Z
+txn_e3cb7452b8c04cf7,Peyton Martinez,peyton.martinez67@company.com,18.37,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-22T10:56:02.525471Z
+txn_71446f3c98d34491,Avery Garcia,avery.garcia93@gmail.com,2418.55,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T12:41:52.525471Z
+txn_624acda5ed644d80,Casey Smith,casey.smith46@yahoo.com,22.64,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-06T11:18:30.525471Z
+txn_80a580badf4f407a,Morgan Rodriguez,morgan.rodriguez8@hotmail.com,44.26,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-08-12T10:12:28.525471Z
+txn_626719fe32754903,Morgan Johnson,morgan.johnson40@gmail.com,16.52,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-06T01:24:11.525471Z
+txn_3d8c8cac24134af1,Peyton Rodriguez,peyton.rodriguez13@startup.io,12.91,USD,succeeded,credit_card,,,2026-06-15T02:44:53.525471Z
+txn_8efea89fc07443a0,Quinn Rodriguez,quinn.rodriguez39@company.com,15.14,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-18T22:05:24.525471Z
+txn_a4f198b6d75b4cfa,Jamie Brown,jamie.brown43@yahoo.com,16.84,USD,succeeded,credit_card,,,2026-07-25T13:50:53.525471Z
+txn_254fe07d81ae4fcf,Jamie Smith,jamie.smith51@outlook.com,18.82,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-14T21:53:17.525471Z
+txn_03a746bd61b84dc7,Taylor Davis,taylor.davis16@hotmail.com,148.52,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-12T06:28:46.525471Z
+txn_441fac3bcbbf47f7,Jamie Rodriguez,jamie.rodriguez9@startup.io,283.09,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-13T18:25:04.525471Z
+txn_a61bd8d1e989454e,Riley Johnson,riley.johnson15@gmail.com,46.58,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-05T17:55:30.525471Z
+txn_524f6a03ee5b402a,Jordan Williams,jordan.williams46@outlook.com,22.84,USD,failed,bank_transfer,stolen_card,The card is reported lost or stolen.,2026-06-25T02:23:46.525471Z
+txn_f18fcee91ee349a8,Jordan Martinez,jordan.martinez87@outlook.com,11.79,USD,failed,credit_card,expired_card,The card has expired.,2026-08-25T12:06:42.525471Z
+txn_cdd2c8b0b18b4a8c,Cameron Jones,cameron.jones87@hotmail.com,261.77,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-11T14:59:04.525471Z
+txn_96cc85d94d4d4681,Skyler Rodriguez,skyler.rodriguez16@hotmail.com,33.33,USD,succeeded,credit_card,,,2026-08-15T05:06:17.525471Z
+txn_aaafc682c9964e4e,Quinn Rodriguez,quinn.rodriguez39@hotmail.com,22.84,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-09T08:47:11.525471Z
+txn_c7f05f355b70468a,Peyton Williams,peyton.williams18@startup.io,17.24,USD,failed,bank_transfer,card_declined,The transaction was declined by the issuer.,2026-08-22T03:22:40.525471Z
+txn_82cb41da6f954fc9,Taylor Jones,taylor.jones70@outlook.com,89.14,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-10T22:52:47.525471Z
+txn_8954d70461104ca6,Riley Rodriguez,riley.rodriguez80@hotmail.com,929.79,USD,succeeded,credit_card,,,2026-08-27T01:50:07.525471Z
+txn_a2f91ba836ca4f9c,Cameron Jones,cameron.jones85@startup.io,26.32,USD,succeeded,credit_card,,,2026-07-18T12:15:19.525471Z
+txn_365a652d17da4ad9,Taylor Williams,taylor.williams33@company.com,153.34,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-03T02:40:08.525471Z
+txn_d0268680489c43b5,Skyler Johnson,skyler.johnson41@company.com,13.90,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-05T18:09:09.525471Z
+txn_e6058e1035e04dd3,Morgan Jones,morgan.jones58@company.com,21.53,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-01T21:14:27.525471Z
+txn_b2c22556051f4688,Jamie Johnson,jamie.johnson21@hotmail.com,40.83,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-03T19:26:47.525471Z
+txn_b079eaf8a7d04aa9,Morgan Brown,morgan.brown75@startup.io,45.25,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-19T13:55:25.525471Z
+txn_96a0bc2ee43f42ae,Jamie Miller,jamie.miller87@company.com,60.09,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T23:49:45.525471Z
+txn_51a4ebcdc30a45eb,Peyton Davis,peyton.davis77@gmail.com,116.38,USD,succeeded,debit_card,,,2026-06-24T17:42:24.525471Z
+txn_dc02e6fc5fd0483e,Jordan Smith,jordan.smith62@hotmail.com,1567.45,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T10:22:10.525471Z
+txn_a3c72e28fa754060,Casey Brown,casey.brown96@gmail.com,23.29,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-06T20:32:03.525471Z
+txn_6c0a9f6e45d347c6,Riley Brown,riley.brown14@hotmail.com,1035.84,USD,succeeded,credit_card,,,2026-06-10T03:21:19.525471Z
+txn_0ed5a730f7d64895,Skyler Garcia,skyler.garcia58@outlook.com,19.60,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-26T20:40:26.525471Z
+txn_7dd998bb19dd4190,Alex Miller,alex.miller1@outlook.com,32.75,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-27T21:28:38.525471Z
+txn_e0a405b74fdd4bf1,Alex Jones,alex.jones46@startup.io,61.63,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T01:49:13.525471Z
+txn_e10055bf8ecb4e6d,Peyton Davis,peyton.davis19@gmail.com,894.86,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-11T04:43:47.525471Z
+txn_89f49cd573a24f87,Alex Garcia,alex.garcia34@company.com,114.83,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-23T15:39:26.525471Z
+txn_63eedf69fe904e68,Avery Garcia,avery.garcia85@yahoo.com,41.87,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-28T09:44:50.525471Z
+txn_f8d37db4a3564c4f,Jamie Miller,jamie.miller19@company.com,28.27,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-07-07T01:58:07.525471Z
+txn_7e6fa2d20ed24648,Skyler Brown,skyler.brown55@outlook.com,31.53,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-07T10:59:01.525471Z
+txn_2115868ed3274484,Taylor Williams,taylor.williams36@company.com,26.64,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-08T23:26:36.525471Z
+txn_217328de05884b82,Alex Rodriguez,alex.rodriguez10@yahoo.com,222.90,USD,succeeded,credit_card,,,2026-06-23T04:26:54.525471Z
+txn_5d0ed618d7f1430a,Alex Brown,alex.brown27@startup.io,261.86,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T04:14:13.525471Z
+txn_de3731860ae849df,Alex Johnson,alex.johnson25@yahoo.com,1117.22,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T09:41:22.525471Z
+txn_4d76afaf8a5f4bcb,Riley Garcia,riley.garcia82@outlook.com,32.71,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-11T05:45:14.525471Z
+txn_fa85195bd0c34e82,Cameron Brown,cameron.brown3@gmail.com,2474.60,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-15T16:16:11.525471Z
+txn_ab96224c3c5244af,Peyton Miller,peyton.miller8@hotmail.com,13.56,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-21T12:00:13.525471Z
+txn_03018b43f7634a05,Cameron Davis,cameron.davis72@yahoo.com,13.91,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T08:32:00.525471Z
+txn_d875865364c44d99,Casey Johnson,casey.johnson80@company.com,12.39,USD,succeeded,wallet,,,2026-08-25T14:28:06.525471Z
+txn_053929ff186b4415,Morgan Rodriguez,morgan.rodriguez72@startup.io,537.21,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T03:10:09.525471Z
+txn_d6196bda16da4e69,Cameron Johnson,cameron.johnson64@startup.io,2387.82,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-08-29T05:14:58.525471Z
+txn_a3f3f5c213804ca3,Jamie Rodriguez,jamie.rodriguez41@yahoo.com,247.36,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-17T19:32:20.525471Z
+txn_ecadb1ac89d44f4e,Morgan Williams,morgan.williams24@company.com,45.48,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-30T04:56:29.525471Z
+txn_d17ce53e403b404a,Skyler Rodriguez,skyler.rodriguez98@startup.io,90.08,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-31T00:30:31.525471Z
+txn_4c2b293f422e44fd,Casey Garcia,casey.garcia36@yahoo.com,15.80,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-07T13:14:48.525471Z
+txn_cc5de92ca79a43f8,Alex Jones,alex.jones1@startup.io,49.29,USD,succeeded,credit_card,,,2026-08-09T17:49:23.525471Z
+txn_ad632eb502cd42a9,Casey Brown,casey.brown91@startup.io,29.88,USD,succeeded,credit_card,,,2026-08-20T13:36:58.525471Z
+txn_285c5da256ad48b3,Skyler Miller,skyler.miller42@outlook.com,18.68,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T16:31:35.525471Z
+txn_5ad03d41641444a0,Jamie Rodriguez,jamie.rodriguez7@hotmail.com,209.70,USD,succeeded,debit_card,,,2026-08-01T02:46:57.525471Z
+txn_e89f3530902c4e50,Peyton Williams,peyton.williams68@hotmail.com,13.16,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-29T12:55:23.525471Z
+txn_e82116dfa67c4de4,Taylor Miller,taylor.miller3@outlook.com,91.95,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-08T06:23:07.525471Z
+txn_2aa43c9c666a4f5e,Riley Martinez,riley.martinez10@company.com,27.64,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-22T23:21:40.525471Z
+txn_81d2a2228d9b4af4,Jamie Jones,jamie.jones21@outlook.com,213.98,USD,succeeded,wallet,,,2026-08-16T11:52:54.525471Z
+txn_d45b5d27eda34b70,Morgan Miller,morgan.miller57@hotmail.com,27.83,USD,succeeded,credit_card,,,2026-08-09T20:02:06.525471Z
+txn_61e3f2c5aa6547a6,Taylor Williams,taylor.williams36@gmail.com,116.03,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-25T10:22:48.525471Z
+txn_d14073b1db684e9d,Alex Johnson,alex.johnson9@startup.io,21.85,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-25T11:54:03.525471Z
+txn_311d6385089f4ea7,Morgan Martinez,morgan.martinez17@outlook.com,33.11,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-13T20:56:31.525471Z
+txn_8ceab1ddc8a14dfa,Morgan Miller,morgan.miller37@yahoo.com,71.28,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-07T19:20:51.525471Z
+txn_320d8917c6e849da,Jamie Williams,jamie.williams71@hotmail.com,21.43,USD,succeeded,credit_card,,,2026-08-01T21:29:44.525471Z
+txn_3fc93cb7c82c4674,Jordan Brown,jordan.brown28@gmail.com,17.99,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-06-06T13:05:20.525471Z
+txn_81a4dd1b3b68466a,Casey Rodriguez,casey.rodriguez48@outlook.com,47.16,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-07-16T01:34:47.525471Z
+txn_7644cf05a4454c33,Avery Smith,avery.smith79@company.com,195.07,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-19T20:33:58.525471Z
+txn_a266a37485e24ff6,Casey Johnson,casey.johnson79@company.com,207.02,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-05T18:49:17.525471Z
+txn_61ef9926a3294f99,Skyler Martinez,skyler.martinez8@startup.io,893.23,USD,succeeded,credit_card,,,2026-08-03T17:35:30.525471Z
+txn_0db9e228bae540d8,Taylor Johnson,taylor.johnson9@gmail.com,26.26,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-18T05:06:32.525471Z
+txn_b904e3b174f44b82,Cameron Rodriguez,cameron.rodriguez79@startup.io,132.93,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-12T01:51:41.525471Z
+txn_8876b79bb620476f,Jamie Williams,jamie.williams56@startup.io,38.38,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T15:12:12.525471Z
+txn_e211e42d266248f9,Jamie Miller,jamie.miller53@startup.io,215.90,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-25T17:14:36.525471Z
+txn_cc5e23baa33b41e8,Peyton Jones,peyton.jones86@startup.io,1695.56,USD,succeeded,credit_card,,,2026-06-22T15:25:17.525471Z
+txn_010380d195df4587,Skyler Smith,skyler.smith63@startup.io,18.49,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-06-10T15:52:09.525471Z
+txn_41b71298a2734be3,Jordan Williams,jordan.williams99@yahoo.com,41.73,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T07:50:32.525471Z
+txn_8a3a271c7e7641cc,Casey Miller,casey.miller2@yahoo.com,34.72,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-28T03:45:17.525471Z
+txn_50ce355f9f3c4171,Peyton Brown,peyton.brown19@gmail.com,45.92,USD,succeeded,wallet,,,2026-08-29T19:12:35.525471Z
+txn_f5a780fc8b1a4d48,Taylor Miller,taylor.miller16@yahoo.com,43.61,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-18T15:21:51.525471Z
+txn_52b2f034082d4e59,Riley Brown,riley.brown61@hotmail.com,349.29,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-06T00:24:48.525471Z
+txn_d109cfc24e9748e1,Taylor Williams,taylor.williams79@company.com,51.71,USD,failed,wallet,expired_card,The card has expired.,2026-07-25T19:19:53.525471Z
+txn_30269db4eacf4832,Alex Smith,alex.smith77@gmail.com,10.28,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-15T07:07:42.525471Z
+txn_cdeb1c9bd44842ad,Quinn Davis,quinn.davis5@yahoo.com,23.71,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-28T16:40:07.525471Z
+txn_798498a9b3fd4ddd,Jordan Brown,jordan.brown71@hotmail.com,109.57,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-16T16:47:03.525471Z
+txn_56bcec67593c497e,Jamie Jones,jamie.jones91@company.com,30.43,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-05T09:19:36.525471Z
+txn_1d8b322506f84a70,Casey Rodriguez,casey.rodriguez56@gmail.com,11.67,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-19T06:45:07.525471Z
+txn_69425c4127e94d57,Avery Brown,avery.brown16@company.com,171.25,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-24T19:06:36.525471Z
+txn_d9e244b9701d42f4,Alex Garcia,alex.garcia81@yahoo.com,36.89,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-07-29T14:11:18.525471Z
+txn_a5ebccee2c3f4016,Skyler Williams,skyler.williams25@yahoo.com,11.61,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-11T05:54:08.525471Z
+txn_62ed381f0a874878,Taylor Martinez,taylor.martinez86@company.com,28.30,USD,succeeded,credit_card,,,2026-06-06T02:29:23.525471Z
+txn_79231211b1e24972,Jamie Johnson,jamie.johnson72@outlook.com,49.49,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-09T02:35:33.525471Z
+txn_7216adf24192460c,Avery Rodriguez,avery.rodriguez90@yahoo.com,23.70,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-07T23:01:24.525471Z
+txn_a2ea005e6df24b1c,Jordan Garcia,jordan.garcia54@outlook.com,1273.46,USD,succeeded,credit_card,,,2026-08-31T20:17:53.525471Z
+txn_8801128fbab0434d,Avery Davis,avery.davis19@gmail.com,35.26,USD,succeeded,debit_card,,,2026-06-11T05:26:50.525471Z
+txn_cd55efeaed5e4387,Riley Miller,riley.miller62@company.com,40.59,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-29T20:38:28.525471Z
+txn_16fe386a4032418f,Riley Johnson,riley.johnson20@yahoo.com,44.38,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-24T19:27:27.525471Z
+txn_23fc5c9420044e9d,Peyton Martinez,peyton.martinez71@startup.io,34.30,USD,succeeded,credit_card,,,2026-06-15T18:21:48.525471Z
+txn_19fc8a7861b5400e,Jordan Smith,jordan.smith12@gmail.com,1404.55,USD,succeeded,credit_card,,,2026-08-30T09:37:46.525471Z
+txn_2cb8b46adeb3475e,Avery Martinez,avery.martinez9@outlook.com,42.69,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-27T18:23:27.525471Z
+txn_271e02739b6f460a,Jamie Davis,jamie.davis78@yahoo.com,270.92,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-15T14:51:07.525471Z
+txn_f1b81ad45bdf4747,Avery Brown,avery.brown56@yahoo.com,47.61,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-22T16:47:42.525471Z
+txn_ea30129c969b4713,Riley Rodriguez,riley.rodriguez75@gmail.com,44.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-08T09:35:03.525471Z
+txn_bd3b4d6619c14a90,Casey Miller,casey.miller21@hotmail.com,43.05,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-17T06:54:09.525471Z
+txn_553ad87eba84442b,Avery Rodriguez,avery.rodriguez83@gmail.com,41.38,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-30T21:12:38.525471Z
+txn_3cdf3adfd1584fd2,Jamie Martinez,jamie.martinez6@company.com,491.13,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-19T16:13:26.525471Z
+txn_7a06db1f1233436a,Riley Smith,riley.smith37@yahoo.com,242.05,USD,succeeded,credit_card,,,2026-07-27T03:16:16.525471Z
+txn_4216eb23c7884f5e,Riley Miller,riley.miller14@outlook.com,172.17,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-15T15:32:50.525471Z
+txn_61ccf6f97a674889,Avery Jones,avery.jones10@hotmail.com,48.99,USD,succeeded,credit_card,,,2026-07-22T08:22:25.525471Z
+txn_7b78b0cbbcd04adf,Alex Johnson,alex.johnson58@yahoo.com,30.88,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-10T03:19:52.525471Z
+txn_6949a8f996bf4efa,Alex Martinez,alex.martinez15@company.com,35.89,USD,succeeded,credit_card,,,2026-06-18T06:33:36.525471Z
+txn_88988b0ab9d1445f,Jordan Martinez,jordan.martinez78@outlook.com,79.66,USD,succeeded,credit_card,,,2026-06-17T05:51:57.525471Z
+txn_5ea64104ab8f4304,Morgan Brown,morgan.brown32@hotmail.com,566.61,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-18T10:17:06.525471Z
+txn_2bd2e1b81e1544b0,Casey Jones,casey.jones60@company.com,10.25,USD,succeeded,debit_card,,,2026-07-28T16:08:27.525471Z
+txn_0947bcae95794315,Avery Brown,avery.brown94@startup.io,42.94,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-04T13:20:00.525471Z
+txn_740c201eaee045b1,Taylor Garcia,taylor.garcia99@company.com,966.66,USD,succeeded,credit_card,,,2026-07-16T21:55:45.525471Z
+txn_59260e87635f4dbb,Morgan Johnson,morgan.johnson52@company.com,245.78,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-24T16:22:23.525471Z
+txn_8f5c0332d90445f3,Alex Garcia,alex.garcia9@gmail.com,47.23,USD,succeeded,debit_card,,,2026-08-30T14:51:42.525471Z
+txn_e0076afe2b5f440f,Jordan Williams,jordan.williams72@startup.io,12.01,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-24T04:58:37.525471Z
+txn_d1013d7b7be241ec,Casey Johnson,casey.johnson86@gmail.com,19.46,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-06-09T00:47:55.525471Z
+txn_423ff08a8f004ebf,Riley Miller,riley.miller49@company.com,49.63,USD,failed,credit_card,expired_card,The card has expired.,2026-08-10T04:51:09.525471Z
+txn_a929bc56c1164158,Riley Smith,riley.smith92@hotmail.com,41.70,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T14:21:41.525471Z
+txn_3efd1be918844b42,Jamie Smith,jamie.smith36@outlook.com,33.60,USD,succeeded,credit_card,,,2026-07-07T17:29:25.525471Z
+txn_8b1fa8ac8362487b,Morgan Brown,morgan.brown74@outlook.com,2248.70,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-18T12:11:26.525471Z
+txn_50027aa332fe412d,Taylor Johnson,taylor.johnson11@gmail.com,29.57,USD,failed,debit_card,expired_card,The card has expired.,2026-08-05T10:17:47.525471Z
+txn_1d2ffb6eff09477e,Quinn Miller,quinn.miller62@hotmail.com,26.29,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-07-08T02:48:47.525471Z
+txn_4ed7280e882944e0,Cameron Martinez,cameron.martinez89@startup.io,16.21,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-16T11:17:55.525471Z
+txn_68e0b0035c5b41d4,Quinn Garcia,quinn.garcia87@yahoo.com,263.53,USD,succeeded,credit_card,,,2026-06-22T06:34:29.525471Z
+txn_e1eb5610cdc74668,Riley Brown,riley.brown88@gmail.com,284.99,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-25T21:48:31.525471Z
+txn_cce4022404b94053,Morgan Miller,morgan.miller89@company.com,2341.55,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-22T21:57:13.525471Z
+txn_f3b6eb2ae0f64641,Morgan Smith,morgan.smith13@outlook.com,36.99,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-29T06:59:12.525471Z
+txn_23a988a729d54f27,Taylor Smith,taylor.smith57@yahoo.com,170.43,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-28T00:18:41.525471Z
+txn_dde1f93725b3474f,Riley Jones,riley.jones52@yahoo.com,2099.22,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-23T01:35:27.525471Z
+txn_a535f6ebefaf43d1,Morgan Williams,morgan.williams30@gmail.com,25.86,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-06T05:36:26.525471Z
+txn_f46eb636cb2b4c40,Jamie Jones,jamie.jones16@hotmail.com,53.52,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T21:33:02.525471Z
+txn_dc3c7beab97b41e7,Riley Garcia,riley.garcia94@company.com,91.22,USD,succeeded,debit_card,,,2026-07-31T09:34:24.525471Z
+txn_76fab7cd1af0405f,Alex Smith,alex.smith52@startup.io,291.40,USD,failed,bank_transfer,expired_card,The card has expired.,2026-08-29T12:48:11.525471Z
+txn_f39af642db284520,Cameron Davis,cameron.davis60@hotmail.com,31.93,USD,succeeded,debit_card,,,2026-07-04T06:18:03.525471Z
+txn_2338c3f0bb754e0e,Skyler Johnson,skyler.johnson67@yahoo.com,1128.85,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-22T19:13:35.525471Z
+txn_f19500e73fe444f5,Alex Martinez,alex.martinez29@company.com,32.81,USD,succeeded,credit_card,,,2026-06-11T04:13:19.525471Z
+txn_64d5b8b38f404a87,Jordan Garcia,jordan.garcia3@company.com,42.40,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-20T17:16:19.525471Z
+txn_807c8a53b2364893,Jordan Davis,jordan.davis68@startup.io,11.99,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-25T09:03:02.525471Z
+txn_ae12aa951bb44047,Morgan Jones,morgan.jones98@gmail.com,197.81,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-08T02:56:40.525471Z
+txn_13508f98bc564d3a,Skyler Miller,skyler.miller8@gmail.com,21.83,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-31T06:00:59.525471Z
+txn_1c4ac25fb05949ca,Taylor Smith,taylor.smith86@company.com,30.25,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-28T15:03:59.525471Z
+txn_affa606e6f5c4ad2,Quinn Jones,quinn.jones60@gmail.com,251.26,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-22T19:38:21.525471Z
+txn_e05112fa3a7b459f,Avery Martinez,avery.martinez42@hotmail.com,30.32,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-05T22:38:02.525471Z
+txn_7a7e7544ccb7481b,Cameron Smith,cameron.smith51@hotmail.com,33.89,USD,failed,bank_transfer,expired_card,The card has expired.,2026-08-31T04:37:19.525471Z
+txn_cef8922f4d87442a,Riley Williams,riley.williams74@startup.io,296.99,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-30T22:03:41.525471Z
+txn_b46076bb234d4f80,Quinn Brown,quinn.brown2@gmail.com,15.55,USD,succeeded,credit_card,,,2026-06-25T01:31:55.525471Z
+txn_55bf6eb8b9a3419d,Quinn Smith,quinn.smith51@outlook.com,19.37,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-15T02:46:26.525471Z
+txn_1701f725fb8d482a,Riley Jones,riley.jones7@yahoo.com,11.51,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T01:44:14.525471Z
+txn_a39e9f04b7ce4a8e,Alex Smith,alex.smith55@company.com,19.75,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-10T08:48:18.525471Z
+txn_8f1b200532db482b,Alex Johnson,alex.johnson10@hotmail.com,188.76,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-22T06:28:48.525471Z
+txn_d5da86d6f4ba4c47,Cameron Jones,cameron.jones23@startup.io,199.02,USD,succeeded,debit_card,,,2026-08-26T21:31:20.525471Z
+txn_c320962040874150,Taylor Smith,taylor.smith24@company.com,39.13,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T20:58:50.525471Z
+txn_3b21e9702fd64faa,Skyler Garcia,skyler.garcia81@startup.io,48.76,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-31T02:24:02.525471Z
+txn_358f0de6d88643fc,Taylor Garcia,taylor.garcia41@hotmail.com,337.04,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-16T12:34:11.525471Z
+txn_a63d62fd1e6946e0,Alex Jones,alex.jones39@company.com,46.43,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-31T14:37:20.525471Z
+txn_e0f44c4157404cdf,Skyler Williams,skyler.williams97@startup.io,223.93,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T10:46:55.525471Z
+txn_efcfe505f926483b,Morgan Davis,morgan.davis76@yahoo.com,31.70,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-31T19:24:46.525471Z
+txn_be823147dca94d2d,Skyler Smith,skyler.smith96@yahoo.com,32.01,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-29T11:45:18.525471Z
+txn_2057674bd8cb4150,Skyler Williams,skyler.williams38@startup.io,163.65,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-16T09:37:45.525471Z
+txn_d6960171cd6c4d90,Skyler Smith,skyler.smith82@company.com,94.46,USD,failed,bank_transfer,card_declined,The transaction was declined by the issuer.,2026-07-15T10:20:40.525471Z
+txn_d162cea4551745c9,Casey Martinez,casey.martinez13@outlook.com,11.99,USD,succeeded,wallet,,,2026-07-28T03:13:46.525471Z
+txn_fef4683cdde34330,Avery Johnson,avery.johnson54@hotmail.com,40.69,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-24T04:58:03.525471Z
+txn_d1852f335fd240bd,Morgan Jones,morgan.jones80@gmail.com,31.29,USD,succeeded,credit_card,,,2026-07-25T22:23:46.525471Z
+txn_51fd3fdb23d54c73,Morgan Rodriguez,morgan.rodriguez31@company.com,25.90,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T10:13:55.525471Z
+txn_3d12973173ac402a,Quinn Smith,quinn.smith73@yahoo.com,30.30,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T12:13:41.525471Z
+txn_5aed0e5eedf640fb,Quinn Johnson,quinn.johnson96@gmail.com,790.80,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-17T14:59:58.525471Z
+txn_2fbf6b5bd61841b9,Quinn Williams,quinn.williams36@outlook.com,30.42,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-17T10:45:38.525471Z
+txn_ac8a7101c0ff4f69,Alex Miller,alex.miller44@outlook.com,19.05,USD,succeeded,credit_card,,,2026-07-20T05:57:42.525471Z
+txn_1082e8698d4947fa,Peyton Miller,peyton.miller18@gmail.com,22.02,USD,succeeded,credit_card,,,2026-07-03T12:55:51.525471Z
+txn_af50fca5931d41e7,Riley Rodriguez,riley.rodriguez32@company.com,37.12,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-28T09:09:35.525471Z
+txn_80131cd7140f4a09,Riley Brown,riley.brown74@yahoo.com,17.30,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-06T06:12:01.525471Z
+txn_2cc51ea42dd94829,Skyler Johnson,skyler.johnson13@outlook.com,57.78,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-24T21:23:49.525471Z
+txn_9d461e6ab1c04647,Avery Miller,avery.miller87@hotmail.com,11.99,USD,succeeded,debit_card,,,2026-08-30T17:37:12.525471Z
+txn_14f7bc6daf6c4f40,Quinn Williams,quinn.williams99@company.com,11.05,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-16T23:25:43.525471Z
+txn_f76ed8048dd44e44,Taylor Davis,taylor.davis2@gmail.com,20.32,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-19T10:49:57.525471Z
+txn_14871259a4c74290,Quinn Brown,quinn.brown46@yahoo.com,28.34,USD,succeeded,credit_card,,,2026-09-02T14:37:06.525471Z
+txn_eeab20b539a44722,Jamie Williams,jamie.williams83@yahoo.com,24.33,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-12T09:41:32.525471Z
+txn_472672d3e2fb458e,Taylor Smith,taylor.smith9@hotmail.com,18.98,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-07-13T10:01:38.525471Z
+txn_1e6070a1269c4744,Jamie Smith,jamie.smith46@company.com,2230.38,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-15T10:52:01.525471Z
+txn_cdb8fa1619fd4b70,Peyton Martinez,peyton.martinez98@company.com,55.25,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-25T01:14:22.525471Z
+txn_9dd84576e535411d,Taylor Jones,taylor.jones6@hotmail.com,88.08,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-22T13:00:30.525471Z
+txn_94e9f1e3ec2944b6,Cameron Garcia,cameron.garcia82@company.com,249.06,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-27T09:48:33.525471Z
+txn_12b3665a1f114496,Peyton Rodriguez,peyton.rodriguez81@hotmail.com,12.91,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T14:05:29.525471Z
+txn_5f7856aa2ce64b8f,Jamie Garcia,jamie.garcia35@gmail.com,14.92,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-26T19:05:49.525471Z
+txn_32ab00368a464731,Taylor Rodriguez,taylor.rodriguez43@startup.io,24.56,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-06T02:24:48.525471Z
+txn_e0bb0b96d9cd482f,Alex Rodriguez,alex.rodriguez86@company.com,16.30,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T21:38:22.525471Z
+txn_e52440c232e84336,Riley Williams,riley.williams80@gmail.com,35.69,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-01T17:43:20.525471Z
+txn_56a1fbd35883444c,Casey Smith,casey.smith2@outlook.com,40.80,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-27T02:29:18.525471Z
+txn_ba129671f0f042d4,Jordan Rodriguez,jordan.rodriguez89@yahoo.com,156.46,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-20T10:30:00.525471Z
+txn_2ad6ce0555f24a07,Cameron Davis,cameron.davis73@outlook.com,37.86,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-28T16:13:22.525471Z
+txn_7313b53976fc4669,Cameron Miller,cameron.miller48@outlook.com,24.96,USD,succeeded,debit_card,,,2026-08-13T00:03:29.525471Z
+txn_fe6fa3312e65481e,Morgan Smith,morgan.smith59@outlook.com,29.75,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T12:03:13.525471Z
+txn_739deca296204ab1,Jamie Jones,jamie.jones78@company.com,34.64,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-22T01:09:20.525471Z
+txn_71f50d8403894c73,Cameron Martinez,cameron.martinez24@outlook.com,47.11,USD,succeeded,credit_card,,,2026-08-28T10:35:17.525471Z
+txn_85c3d2d7a78746ce,Casey Williams,casey.williams13@gmail.com,26.81,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-14T18:37:37.525471Z
+txn_6e5cc64de622476d,Riley Johnson,riley.johnson27@startup.io,26.93,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-27T16:57:05.525471Z
+txn_502c34b39a444c73,Morgan Brown,morgan.brown70@outlook.com,115.31,USD,succeeded,credit_card,,,2026-07-28T17:10:31.525471Z
+txn_ddd5472c56f14ca0,Quinn Smith,quinn.smith67@outlook.com,43.73,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-15T19:03:02.525471Z
+txn_c01c312f6db4452c,Alex Williams,alex.williams73@hotmail.com,10.46,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-27T03:27:57.525471Z
+txn_f429e9258f2e48ed,Avery Smith,avery.smith6@outlook.com,45.12,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T05:48:07.525471Z
+txn_392e4d1d851541b2,Jordan Rodriguez,jordan.rodriguez71@hotmail.com,65.36,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-29T22:07:27.525471Z
+txn_255d173129d1471b,Skyler Brown,skyler.brown11@startup.io,44.45,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-29T08:29:20.525471Z
+txn_50dac60a69d942fe,Avery Brown,avery.brown32@gmail.com,26.23,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-08-07T06:36:12.525471Z
+txn_976aa6d4a894487f,Jordan Miller,jordan.miller46@yahoo.com,47.52,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-20T23:07:10.525471Z
+txn_146ebef4db2d4bd9,Quinn Miller,quinn.miller46@outlook.com,18.15,USD,succeeded,credit_card,,,2026-08-09T23:43:27.525471Z
+txn_9e621768dec842ac,Casey Davis,casey.davis37@company.com,24.31,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-01T13:33:45.525471Z
+txn_3a0bc3a7f3a94a5e,Casey Garcia,casey.garcia2@outlook.com,22.75,USD,failed,bank_transfer,stolen_card,The card is reported lost or stolen.,2026-08-31T12:50:49.525471Z
+txn_492face7d5b74400,Peyton Rodriguez,peyton.rodriguez73@hotmail.com,486.97,USD,succeeded,credit_card,,,2026-06-22T15:45:49.525471Z
+txn_b033f45186f84dae,Cameron Garcia,cameron.garcia60@company.com,1486.76,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-30T18:00:20.525471Z
+txn_52988289b34040ab,Taylor Johnson,taylor.johnson94@gmail.com,29.50,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-24T17:41:59.525471Z
+txn_8874684889f24ce2,Quinn Davis,quinn.davis67@outlook.com,13.28,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-12T00:45:25.525471Z
+txn_2c69683f3fd64b4a,Skyler Brown,skyler.brown5@company.com,18.94,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-04T08:45:15.525471Z
+txn_c4cb69b1f99c4f60,Quinn Martinez,quinn.martinez54@outlook.com,107.54,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T13:00:48.525471Z
+txn_cb8b030e58ea44ec,Jordan Williams,jordan.williams76@startup.io,35.64,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-12T12:05:08.525471Z
+txn_ed861a46621d42fc,Jamie Rodriguez,jamie.rodriguez70@company.com,31.99,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-25T01:52:56.525471Z
+txn_a02337c2e83b4101,Jordan Smith,jordan.smith20@yahoo.com,93.22,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-13T03:33:04.525471Z
+txn_f7676f2d615c436e,Alex Miller,alex.miller40@company.com,14.00,USD,succeeded,credit_card,,,2026-08-09T18:19:50.525471Z
+txn_67f1a62f3d704a77,Peyton Smith,peyton.smith10@company.com,46.08,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T10:49:57.525471Z
+txn_3e9cb83498ec40ac,Skyler Williams,skyler.williams78@gmail.com,233.11,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-19T00:47:20.525471Z
+txn_c7c3fe28bd8a46ff,Avery Johnson,avery.johnson74@company.com,12.26,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-11T19:46:20.525471Z
+txn_366c116011ee48bc,Jamie Smith,jamie.smith61@company.com,226.58,USD,succeeded,debit_card,,,2026-08-13T19:37:34.525471Z
+txn_3742984742ef4a0f,Avery Jones,avery.jones14@startup.io,280.70,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-09T22:29:40.525471Z
+txn_8718eb88e3094e56,Morgan Martinez,morgan.martinez84@gmail.com,75.34,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-05T09:25:02.525471Z
+txn_81cc114dfc5340ac,Morgan Smith,morgan.smith53@yahoo.com,18.44,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-20T07:02:16.525471Z
+txn_4e727997ea744863,Taylor Rodriguez,taylor.rodriguez30@startup.io,19.44,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-22T23:49:30.525471Z
+txn_f6fff6287e244159,Alex Brown,alex.brown10@startup.io,48.82,USD,failed,credit_card,expired_card,The card has expired.,2026-06-15T09:43:21.525471Z
+txn_c28ae1f082af4ec8,Jamie Martinez,jamie.martinez7@startup.io,962.70,USD,succeeded,bank_transfer,,,2026-06-07T23:42:38.525471Z
+txn_d15afde6b5274ef6,Riley Jones,riley.jones53@gmail.com,43.11,USD,succeeded,credit_card,,,2026-07-23T15:46:33.525471Z
+txn_1d0a3c5ee8d84c3e,Alex Miller,alex.miller20@yahoo.com,11.86,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T22:26:58.525471Z
+txn_3223d2d200e84c02,Peyton Martinez,peyton.martinez1@gmail.com,42.80,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T08:19:35.525471Z
+txn_52e0a6e404fb49d3,Taylor Johnson,taylor.johnson51@company.com,17.60,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-15T09:39:56.525471Z
+txn_56a3a61e1f734d5d,Casey Garcia,casey.garcia99@startup.io,99.37,USD,succeeded,credit_card,,,2026-06-19T10:40:41.525471Z
+txn_98bdae833fd3435f,Casey Martinez,casey.martinez89@startup.io,36.88,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-29T11:02:09.525471Z
+txn_9503859cb6ab4fc3,Skyler Davis,skyler.davis54@yahoo.com,283.84,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T09:54:23.525471Z
+txn_84cfc6877b6e4ac5,Quinn Martinez,quinn.martinez70@startup.io,26.80,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-19T23:58:40.525471Z
+txn_36c42a2e2c9840dc,Casey Martinez,casey.martinez77@yahoo.com,11.52,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-09T00:53:05.525471Z
+txn_dd20efe12cf94ed1,Cameron Williams,cameron.williams53@company.com,46.96,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-31T16:04:17.525471Z
+txn_02fed35eba5d4af3,Jordan Martinez,jordan.martinez52@yahoo.com,11.42,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-28T22:19:01.525471Z
+txn_a40d4db9b481461e,Avery Rodriguez,avery.rodriguez47@gmail.com,161.08,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-28T18:35:00.525471Z
+txn_41ca6199f28e4bc7,Casey Garcia,casey.garcia27@hotmail.com,48.41,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-04T23:00:41.525471Z
+txn_2e0150c9cd174c1f,Cameron Jones,cameron.jones98@outlook.com,33.18,USD,failed,credit_card,expired_card,The card has expired.,2026-06-22T18:26:07.525471Z
+txn_ec97c0a165004076,Avery Miller,avery.miller18@startup.io,26.50,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-25T13:31:17.525471Z
+txn_58f1f1f5a9424e72,Riley Martinez,riley.martinez18@startup.io,21.37,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T08:15:33.525471Z
+txn_7900ebff33fa4c79,Skyler Miller,skyler.miller4@outlook.com,38.32,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-17T22:14:36.525471Z
+txn_0a04a18e79e84634,Peyton Martinez,peyton.martinez81@yahoo.com,20.79,USD,succeeded,bank_transfer,,,2026-08-22T18:47:00.525471Z
+txn_f970dfbeb84c4ea7,Casey Davis,casey.davis30@yahoo.com,33.94,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-05T05:00:31.525471Z
+txn_ca4526a41f13431e,Riley Miller,riley.miller46@startup.io,81.05,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-06T09:03:21.525471Z
+txn_8e46ca55251e42e2,Skyler Miller,skyler.miller4@company.com,21.45,USD,succeeded,wallet,,,2026-06-05T23:47:34.525471Z
+txn_ee572c7c31bd4cbd,Cameron Rodriguez,cameron.rodriguez63@yahoo.com,31.26,USD,failed,debit_card,expired_card,The card has expired.,2026-07-18T17:32:48.525471Z
+txn_22848434a9c44da2,Alex Johnson,alex.johnson34@hotmail.com,279.71,USD,succeeded,credit_card,,,2026-08-29T16:52:48.525471Z
+txn_3a0566ecb1b34397,Avery Smith,avery.smith61@company.com,10.73,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-20T05:08:49.525471Z
+txn_22a65ba22aad4206,Jamie Jones,jamie.jones50@hotmail.com,22.78,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-30T22:29:59.525471Z
+txn_bd4803ae97a24bac,Taylor Johnson,taylor.johnson34@startup.io,28.60,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-22T19:25:44.525471Z
+txn_54a7d7e6e8c64324,Jamie Johnson,jamie.johnson21@company.com,24.47,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-07T19:25:01.525471Z
+txn_49a3b9183a5c49c4,Morgan Martinez,morgan.martinez94@hotmail.com,36.43,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-13T03:30:45.525471Z
+txn_cefe89ce50c34c7d,Avery Williams,avery.williams98@outlook.com,12.03,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-26T22:27:27.525471Z
+txn_082db3666d4c4cd0,Riley Smith,riley.smith46@startup.io,38.14,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T11:10:23.525471Z
+txn_f3d41a2e89ed4e2c,Cameron Davis,cameron.davis64@hotmail.com,44.68,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-08-21T13:12:40.525471Z
+txn_4cdbad11df394acb,Avery Brown,avery.brown81@outlook.com,44.05,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-08T05:19:34.525471Z
+txn_22e23199dc274e07,Taylor Miller,taylor.miller90@startup.io,24.28,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-20T08:44:32.525471Z
+txn_cd7768bfc14d40bb,Jordan Rodriguez,jordan.rodriguez9@yahoo.com,26.36,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-08T04:30:04.525471Z
+txn_960a61585ad24c19,Casey Johnson,casey.johnson87@company.com,118.86,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-12T19:37:30.525471Z
+txn_b6271cfe7b8a42ab,Peyton Johnson,peyton.johnson33@company.com,46.20,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-11T02:38:04.525471Z
+txn_fb4626480ccd461c,Cameron Brown,cameron.brown85@startup.io,82.72,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-18T13:03:44.525471Z
+txn_c0303937234341ae,Peyton Davis,peyton.davis18@outlook.com,1221.68,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T03:57:14.525471Z
+txn_8807c68543dc4122,Jordan Smith,jordan.smith20@gmail.com,13.16,USD,succeeded,credit_card,,,2026-08-31T18:12:35.525471Z
+txn_83782f6fca4246f7,Alex Martinez,alex.martinez70@startup.io,1738.00,USD,failed,credit_card,expired_card,The card has expired.,2026-08-25T21:47:40.525471Z
+txn_ccf06ef94c5b42a6,Jordan Miller,jordan.miller37@gmail.com,183.32,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-02T08:57:48.525471Z
+txn_0852839df26d437a,Morgan Smith,morgan.smith35@hotmail.com,177.91,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-16T16:38:41.525471Z
+txn_bec99a345569409e,Riley Brown,riley.brown65@hotmail.com,28.18,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-28T20:25:06.525471Z
+txn_617024ae7ce54c7d,Casey Smith,casey.smith12@gmail.com,42.40,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-17T09:39:51.525471Z
+txn_bfac7aebc7f74b13,Jordan Johnson,jordan.johnson51@outlook.com,200.86,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-30T05:40:05.525471Z
+txn_aef695166e6845ac,Jamie Miller,jamie.miller27@yahoo.com,22.04,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-29T10:11:09.525471Z
+txn_9b57186dc92d466b,Morgan Davis,morgan.davis80@startup.io,82.39,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-21T17:53:14.525471Z
+txn_19a57380bcdc4a4d,Jordan Rodriguez,jordan.rodriguez79@yahoo.com,2103.85,USD,succeeded,credit_card,,,2026-08-01T06:21:23.525471Z
+txn_e94a1e5f7e814a34,Taylor Brown,taylor.brown29@yahoo.com,23.10,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-13T15:45:02.525471Z
+txn_c0b57d5295084fd7,Jamie Davis,jamie.davis18@startup.io,244.07,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T00:34:30.525471Z
+txn_22bd6e51734843ef,Peyton Garcia,peyton.garcia72@yahoo.com,35.13,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-01T23:22:58.525471Z
+txn_ea38b254adc64f21,Cameron Brown,cameron.brown41@gmail.com,11.48,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-31T05:57:48.525471Z
+txn_8dc15076f0824a5c,Cameron Johnson,cameron.johnson56@hotmail.com,12.52,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T08:06:40.525471Z
+txn_c7928c4edf9c4445,Jordan Miller,jordan.miller36@startup.io,314.28,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-10T23:25:55.525471Z
+txn_cb870ec8fc244392,Riley Rodriguez,riley.rodriguez39@gmail.com,856.32,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-18T18:36:05.525471Z
+txn_1bce579bd9524b19,Peyton Johnson,peyton.johnson18@startup.io,42.14,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-21T19:16:06.525471Z
+txn_9b0d3c5d1663478e,Avery Jones,avery.jones8@company.com,12.40,USD,succeeded,debit_card,,,2026-06-13T18:10:55.525471Z
+txn_ea94f963623e4f89,Riley Miller,riley.miller93@hotmail.com,46.00,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-11T17:44:00.525471Z
+txn_5ce86684a27e401f,Taylor Jones,taylor.jones95@hotmail.com,178.33,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-17T18:22:15.525471Z
+txn_de772231d0754e4a,Quinn Martinez,quinn.martinez86@outlook.com,179.55,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-29T13:59:02.525471Z
+txn_044a5391abfc4090,Cameron Davis,cameron.davis85@startup.io,795.95,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-13T05:05:37.525471Z
+txn_e12dd24619954d21,Morgan Miller,morgan.miller65@company.com,17.74,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-01T16:08:04.525471Z
+txn_11723b522df142df,Casey Brown,casey.brown90@gmail.com,28.23,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-22T21:37:56.525471Z
+txn_830417d147144384,Quinn Davis,quinn.davis11@outlook.com,259.42,USD,succeeded,credit_card,,,2026-07-06T19:05:12.525471Z
+txn_1e2cb93831dc4794,Jamie Smith,jamie.smith58@startup.io,90.37,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-12T21:34:29.525471Z
+txn_b781736a4b16431b,Taylor Brown,taylor.brown78@gmail.com,76.52,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-08-19T02:11:21.525471Z
+txn_4a0778c98ee64850,Quinn Rodriguez,quinn.rodriguez29@yahoo.com,37.39,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-30T12:49:11.525471Z
+txn_c81fc07eb5ff4736,Skyler Martinez,skyler.martinez12@outlook.com,238.28,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T18:06:37.525471Z
+txn_bb71c43b22464bd4,Peyton Williams,peyton.williams10@hotmail.com,33.91,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-08T12:40:19.525471Z
+txn_d5c79fda44714c98,Jordan Rodriguez,jordan.rodriguez16@company.com,59.60,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-26T19:17:47.525471Z
+txn_7c3cc46231854966,Peyton Smith,peyton.smith63@startup.io,127.90,USD,succeeded,debit_card,,,2026-06-22T20:11:23.525471Z
+txn_e29da444f77f4102,Jordan Garcia,jordan.garcia66@outlook.com,39.98,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-06-13T01:53:09.525471Z
+txn_674629b086094aea,Casey Martinez,casey.martinez69@gmail.com,47.23,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-07T19:30:43.525471Z
+txn_5774c778db2942b4,Quinn Jones,quinn.jones40@outlook.com,24.50,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-09-01T01:26:37.525471Z
+txn_d804ed7f609241d0,Jordan Brown,jordan.brown41@startup.io,47.23,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-08-04T21:48:49.525471Z
+txn_281b84485bd44356,Taylor Johnson,taylor.johnson29@gmail.com,646.13,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-09T05:57:14.525471Z
+txn_133931ad72a843da,Alex Brown,alex.brown13@company.com,581.13,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-06-23T04:59:30.525471Z
+txn_bac08d3c3be941c6,Avery Williams,avery.williams46@company.com,33.48,USD,succeeded,credit_card,,,2026-07-31T12:00:41.525471Z
+txn_52883961ae25405e,Jamie Brown,jamie.brown98@company.com,48.52,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-19T18:20:56.525471Z
+txn_66a9253397d34088,Cameron Martinez,cameron.martinez89@company.com,10.01,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-25T22:57:03.525471Z
+txn_9c727801d2424d2a,Quinn Jones,quinn.jones64@yahoo.com,14.13,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-24T19:43:44.525471Z
+txn_cd108bb0808940a4,Taylor Brown,taylor.brown5@yahoo.com,74.18,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-02T20:25:41.525471Z
+txn_745ee7da5073472e,Riley Johnson,riley.johnson47@company.com,29.25,USD,succeeded,credit_card,,,2026-06-15T17:59:26.525471Z
+txn_e3b8a5ed010849dc,Casey Miller,casey.miller94@hotmail.com,24.18,USD,succeeded,credit_card,,,2026-08-15T06:48:45.525471Z
+txn_fbc758aa24c44ef8,Morgan Miller,morgan.miller92@outlook.com,10.38,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-06-23T15:26:10.525471Z
+txn_db0ca1b86f1c4f58,Jordan Johnson,jordan.johnson68@hotmail.com,27.74,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-14T10:55:59.525471Z
+txn_1d55fd5b31b84104,Peyton Jones,peyton.jones91@startup.io,249.84,USD,succeeded,credit_card,,,2026-07-11T14:22:55.525471Z
+txn_184998ec860d42e5,Riley Martinez,riley.martinez78@gmail.com,202.92,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-15T18:12:07.525471Z
+txn_9abbbfd6f2f143a0,Morgan Davis,morgan.davis33@gmail.com,31.51,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T03:55:08.525471Z
+txn_a5553259c82a41e5,Peyton Garcia,peyton.garcia63@company.com,12.51,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-03T00:50:29.525471Z
+txn_6a0d9f6484e24717,Peyton Smith,peyton.smith26@gmail.com,21.36,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-26T04:23:46.525471Z
+txn_35a17fe52ee94057,Skyler Jones,skyler.jones24@startup.io,49.53,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-25T22:28:00.525471Z
+txn_8945517e58284e8c,Riley Brown,riley.brown10@outlook.com,877.52,USD,succeeded,credit_card,,,2026-07-18T01:28:01.525471Z
+txn_8dd45887d87b4682,Taylor Rodriguez,taylor.rodriguez78@outlook.com,16.81,USD,succeeded,bank_transfer,,,2026-06-13T15:44:05.525471Z
+txn_e7f3afa0f6514c86,Cameron Jones,cameron.jones49@hotmail.com,25.13,USD,succeeded,debit_card,,,2026-08-19T17:11:03.525471Z
+txn_9079f1eaad124de0,Jordan Williams,jordan.williams65@gmail.com,40.19,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-21T16:39:27.525471Z
+txn_01eea9b1187446ed,Jamie Garcia,jamie.garcia42@gmail.com,41.42,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-25T20:55:48.525471Z
+txn_454dd564f5a74844,Alex Garcia,alex.garcia17@gmail.com,37.38,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-20T12:29:53.525471Z
+txn_3124b6a5ded3437b,Jamie Martinez,jamie.martinez50@yahoo.com,125.99,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-20T02:31:13.525471Z
+txn_d6a3b80585e8421d,Alex Rodriguez,alex.rodriguez98@startup.io,27.39,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T19:08:47.525471Z
+txn_356ac90683d5452a,Morgan Miller,morgan.miller72@gmail.com,216.01,USD,failed,debit_card,expired_card,The card has expired.,2026-07-17T20:53:13.525471Z
+txn_f6f58cfbff0745d9,Alex Smith,alex.smith44@company.com,19.25,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-30T18:22:37.525471Z
+txn_8dd5dec58c1443f3,Cameron Rodriguez,cameron.rodriguez55@company.com,211.99,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-26T18:14:47.525471Z
+txn_cf8743944eeb44dc,Quinn Rodriguez,quinn.rodriguez72@hotmail.com,20.97,USD,succeeded,credit_card,,,2026-06-25T01:31:19.525471Z
+txn_4b696bbcfafa47a9,Quinn Rodriguez,quinn.rodriguez30@startup.io,18.83,USD,failed,credit_card,expired_card,The card has expired.,2026-06-15T23:16:25.525471Z
+txn_e7c235c95c234cfd,Skyler Brown,skyler.brown79@startup.io,34.91,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-12T13:05:28.525471Z
+txn_ec5d5e612f374b1b,Quinn Williams,quinn.williams53@outlook.com,23.17,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T21:54:07.525471Z
+txn_36c163495b2c409f,Taylor Smith,taylor.smith86@startup.io,30.70,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-16T13:01:04.525471Z
+txn_dd1daa1497fd425e,Riley Davis,riley.davis92@yahoo.com,289.74,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-28T05:28:48.525471Z
+txn_1480cacb4cbf4995,Quinn Brown,quinn.brown48@hotmail.com,34.02,USD,succeeded,credit_card,,,2026-07-30T06:17:46.525471Z
+txn_0cd664e0db0840c1,Cameron Smith,cameron.smith87@company.com,10.58,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-12T13:50:44.525471Z
+txn_dce420dd635744d5,Taylor Jones,taylor.jones34@gmail.com,49.75,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-12T04:14:56.525471Z
+txn_1a8de72c103a42d6,Peyton Garcia,peyton.garcia29@hotmail.com,155.43,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-26T17:15:16.525471Z
+txn_67dfc61b1fda484a,Skyler Smith,skyler.smith18@yahoo.com,137.19,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T17:08:12.525471Z
+txn_38fd1415f3ff4fca,Taylor Williams,taylor.williams95@hotmail.com,239.01,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-10T14:25:32.525471Z
+txn_cef4e5fc92024ec4,Skyler Jones,skyler.jones66@gmail.com,39.44,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-09-01T08:48:32.525471Z
+txn_e0d806aad3a0420b,Jordan Garcia,jordan.garcia52@company.com,11.12,USD,succeeded,bank_transfer,,,2026-06-28T21:49:48.525471Z
+txn_9d649b08764b4c5b,Riley Rodriguez,riley.rodriguez29@startup.io,194.34,USD,succeeded,credit_card,,,2026-08-03T03:21:24.525471Z
+txn_264328a11365472d,Peyton Rodriguez,peyton.rodriguez80@outlook.com,91.17,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-02T11:14:44.525471Z
+txn_86412e600baf4bca,Taylor Martinez,taylor.martinez48@hotmail.com,32.14,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-01T04:20:57.525471Z
+txn_fedc7f6f589b4d9d,Jamie Jones,jamie.jones70@hotmail.com,254.20,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-11T11:06:29.525471Z
+txn_e598d3b10e8147a9,Jamie Williams,jamie.williams55@yahoo.com,1941.63,USD,succeeded,debit_card,,,2026-08-19T21:56:37.525471Z
+txn_dcc7bda3ebf44444,Skyler Miller,skyler.miller66@yahoo.com,221.90,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T22:09:49.525471Z
+txn_0d1a6e047d834001,Avery Garcia,avery.garcia50@yahoo.com,43.51,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-20T02:26:37.525471Z
+txn_269dcff7957f4ddf,Peyton Martinez,peyton.martinez56@gmail.com,22.10,USD,succeeded,credit_card,,,2026-07-07T06:43:08.525471Z
+txn_0afc80c66a26476b,Morgan Jones,morgan.jones40@startup.io,238.72,USD,succeeded,debit_card,,,2026-08-17T14:48:22.525471Z
+txn_cedc62c619694b72,Avery Johnson,avery.johnson83@outlook.com,33.00,USD,succeeded,credit_card,,,2026-06-11T05:16:03.525471Z
+txn_a5bbd5c672ce44cb,Peyton Garcia,peyton.garcia4@company.com,41.08,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T17:43:57.525471Z
+txn_dbe084697f514c7b,Alex Jones,alex.jones14@yahoo.com,214.57,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-03T19:19:08.525471Z
+txn_af2de7bf18b847d0,Quinn Jones,quinn.jones76@company.com,261.54,USD,succeeded,credit_card,,,2026-07-23T23:07:52.525471Z
+txn_f1e3736eac4346ea,Alex Williams,alex.williams22@hotmail.com,25.57,USD,succeeded,bank_transfer,,,2026-07-18T13:27:24.525471Z
+txn_552832d3eef449f9,Avery Williams,avery.williams46@startup.io,39.91,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-23T02:14:55.525471Z
+txn_a7082364e4f444f5,Casey Williams,casey.williams63@startup.io,217.64,USD,succeeded,credit_card,,,2026-08-20T15:13:03.525471Z
+txn_8b9e33bd0ccc4055,Jordan Jones,jordan.jones31@hotmail.com,1060.85,USD,succeeded,credit_card,,,2026-08-18T14:19:55.525471Z
+txn_51eb130925d54b61,Alex Miller,alex.miller43@company.com,38.92,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-22T14:33:44.525471Z
+txn_9249bac0a5db4905,Quinn Rodriguez,quinn.rodriguez93@company.com,298.10,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-13T11:18:10.525471Z
+txn_f0ee18c3ea4e4d58,Taylor Jones,taylor.jones31@hotmail.com,21.43,USD,succeeded,credit_card,,,2026-07-21T06:46:15.525471Z
+txn_23d1ec8dafcb4746,Cameron Martinez,cameron.martinez92@company.com,203.52,USD,succeeded,credit_card,,,2026-08-11T02:20:12.525471Z
+txn_4aa831e0bf6f4fbf,Morgan Davis,morgan.davis85@yahoo.com,124.94,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T12:57:51.525471Z
+txn_33c77dc321044f7a,Alex Williams,alex.williams14@company.com,28.60,USD,succeeded,bank_transfer,,,2026-08-14T14:11:24.525471Z
+txn_75ce9f8eb1644dee,Taylor Garcia,taylor.garcia13@hotmail.com,17.03,USD,succeeded,credit_card,,,2026-06-10T19:19:36.525471Z
+txn_ad52313da05e476a,Cameron Garcia,cameron.garcia80@company.com,270.51,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-20T17:32:50.525471Z
+txn_4a57bb2a30064d9d,Casey Martinez,casey.martinez64@gmail.com,86.23,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-01T15:35:35.525471Z
+txn_f86e0b382663448e,Peyton Williams,peyton.williams26@gmail.com,26.47,USD,succeeded,debit_card,,,2026-06-20T23:40:04.525471Z
+txn_a79117735573439a,Quinn Garcia,quinn.garcia94@company.com,46.28,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T21:54:50.525471Z
+txn_7e270a57e2384d04,Cameron Miller,cameron.miller56@company.com,1746.05,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-30T06:32:24.525471Z
+txn_f8d590f50a0f4131,Avery Davis,avery.davis62@hotmail.com,19.80,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-11T11:52:29.525471Z
+txn_2c06ca7dde504d71,Quinn Davis,quinn.davis40@yahoo.com,169.32,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-06T11:38:16.525471Z
+txn_2a88d74264fa4a19,Taylor Brown,taylor.brown14@gmail.com,14.44,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-10T03:20:35.525471Z
+txn_276a7fa325314845,Casey Garcia,casey.garcia88@gmail.com,24.88,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-12T08:00:27.525471Z
+txn_c72bf6dea6a748ed,Jordan Miller,jordan.miller32@outlook.com,236.41,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-01T06:47:19.525471Z
+txn_0eb52e832ed34d32,Taylor Smith,taylor.smith48@company.com,2038.51,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-06T14:41:07.525471Z
+txn_da061f579b1f49ce,Taylor Rodriguez,taylor.rodriguez68@startup.io,28.03,USD,succeeded,wallet,,,2026-06-12T14:22:15.525471Z
+txn_dd24a3ce0f244f48,Skyler Rodriguez,skyler.rodriguez20@startup.io,27.28,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-06T02:14:16.525471Z
+txn_392c64ec89c34828,Alex Williams,alex.williams15@gmail.com,84.87,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-17T16:48:22.525471Z
+txn_46ad067a1fab45b6,Skyler Johnson,skyler.johnson36@hotmail.com,12.20,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T10:29:32.525471Z
+txn_f07227d3f59848f5,Quinn Garcia,quinn.garcia63@gmail.com,1075.59,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-06T14:08:27.525471Z
+txn_b9092f8ca1704dc0,Jamie Brown,jamie.brown55@gmail.com,195.45,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-06-13T02:10:54.525471Z
+txn_632cc931fe394858,Casey Martinez,casey.martinez19@yahoo.com,215.79,USD,failed,credit_card,expired_card,The card has expired.,2026-09-03T08:26:20.525471Z
+txn_167e6bb13c6c4fd4,Jordan Jones,jordan.jones85@company.com,15.30,USD,succeeded,bank_transfer,,,2026-09-01T22:12:31.525471Z
+txn_811dd1c1bb8c46b7,Jordan Martinez,jordan.martinez7@outlook.com,11.24,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-22T08:19:56.525471Z
+txn_f3c8f5d7c5ff4bdf,Quinn Garcia,quinn.garcia95@startup.io,38.41,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-27T10:43:59.525471Z
+txn_6833139b418546f7,Quinn Garcia,quinn.garcia3@gmail.com,21.68,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-10T12:44:25.525471Z
+txn_f095510cdde04f48,Riley Jones,riley.jones69@gmail.com,1480.57,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-17T15:01:08.525471Z
+txn_edb063f252524cda,Skyler Jones,skyler.jones32@yahoo.com,1957.82,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-06T21:07:29.525471Z
+txn_c9ebb632133c4b07,Alex Rodriguez,alex.rodriguez6@yahoo.com,28.05,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-01T03:21:56.525471Z
+txn_f4984898f50d4675,Alex Miller,alex.miller28@company.com,149.10,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-07T19:45:54.525471Z
+txn_69e487b8edc04ab0,Taylor Garcia,taylor.garcia56@company.com,2491.40,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-18T06:21:17.525471Z
+txn_98074c3425df4355,Peyton Davis,peyton.davis17@outlook.com,48.60,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-20T19:45:35.525471Z
+txn_4b7248e8a70246db,Taylor Williams,taylor.williams9@startup.io,44.72,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-13T18:43:40.525471Z
+txn_241d72a526fd4e57,Morgan Jones,morgan.jones30@outlook.com,125.25,USD,succeeded,debit_card,,,2026-08-23T00:34:56.525471Z
+txn_21bedd6fbee74d18,Quinn Jones,quinn.jones94@yahoo.com,238.14,USD,succeeded,debit_card,,,2026-07-26T03:36:52.525471Z
+txn_7010e95373c84e7d,Alex Martinez,alex.martinez61@gmail.com,14.96,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-19T19:48:49.525471Z
+txn_c5960fe5ad5d42d3,Jamie Brown,jamie.brown21@hotmail.com,38.41,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-13T08:01:23.525471Z
+txn_60075134c6d74140,Morgan Rodriguez,morgan.rodriguez49@startup.io,85.39,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-17T23:24:57.525471Z
+txn_97da28e3d6664dcd,Avery Martinez,avery.martinez20@hotmail.com,13.01,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-11T13:46:56.525471Z
+txn_db4250823a6f42ec,Quinn Miller,quinn.miller74@yahoo.com,11.53,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-05T16:23:54.525471Z
+txn_e15a351261f14266,Quinn Garcia,quinn.garcia86@startup.io,48.90,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-17T06:05:30.525471Z
+txn_cffe7cb06c1f44ac,Cameron Smith,cameron.smith13@gmail.com,39.35,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-05T00:04:28.525471Z
+txn_7a04dd9fd1d74afa,Morgan Rodriguez,morgan.rodriguez40@gmail.com,60.96,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-23T23:30:55.525471Z
+txn_2b3f26b80b7341e9,Avery Rodriguez,avery.rodriguez42@hotmail.com,36.11,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-11T13:05:23.525471Z
+txn_d85fd273f7e4453f,Casey Miller,casey.miller68@hotmail.com,34.15,USD,succeeded,credit_card,,,2026-07-11T22:19:59.525471Z
+txn_e6ba13693f794a91,Casey Davis,casey.davis26@hotmail.com,256.58,USD,succeeded,bank_transfer,,,2026-07-13T01:48:00.525471Z
+txn_ca2fc4405863450e,Peyton Rodriguez,peyton.rodriguez79@hotmail.com,217.68,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-23T05:08:18.525471Z
+txn_a263d834db564132,Quinn Martinez,quinn.martinez32@startup.io,354.41,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-27T08:57:38.525471Z
+txn_a6aeb1d4f0404a96,Cameron Williams,cameron.williams96@startup.io,97.65,USD,succeeded,wallet,,,2026-06-17T06:48:33.525471Z
+txn_7f05374a87d64627,Jamie Williams,jamie.williams37@outlook.com,15.85,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-23T03:44:39.525471Z
+txn_8619072a021443ce,Taylor Brown,taylor.brown45@startup.io,27.15,USD,failed,debit_card,expired_card,The card has expired.,2026-08-18T23:54:06.525471Z
+txn_20b8f1071e3d40b4,Avery Brown,avery.brown45@yahoo.com,33.32,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-18T06:58:40.525471Z
+txn_ed4ed163ad6c436a,Morgan Smith,morgan.smith53@company.com,958.53,USD,failed,credit_card,expired_card,The card has expired.,2026-06-22T03:26:24.525471Z
+txn_9cb3ea33c3b04a65,Avery Jones,avery.jones78@hotmail.com,47.45,USD,succeeded,credit_card,,,2026-08-02T03:07:24.525471Z
+txn_7c27e085f75649d0,Taylor Williams,taylor.williams67@company.com,263.83,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-29T20:15:01.525471Z
+txn_662dc3ed45f54a80,Jordan Garcia,jordan.garcia42@hotmail.com,35.70,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-30T01:06:59.525471Z
+txn_ab2efb1ecf3c4dd0,Morgan Brown,morgan.brown20@startup.io,49.12,USD,succeeded,debit_card,,,2026-07-21T09:49:06.525471Z
+txn_5e1302ec1e8248ea,Jordan Jones,jordan.jones5@gmail.com,197.54,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-24T14:07:18.525471Z
+txn_5dc1d45a5bff4a28,Morgan Garcia,morgan.garcia96@gmail.com,871.66,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-16T21:33:28.525471Z
+txn_fc7c18330ca640be,Quinn Johnson,quinn.johnson81@hotmail.com,27.03,USD,succeeded,credit_card,,,2026-08-20T00:38:39.525471Z
+txn_1f242949dbd9461b,Avery Brown,avery.brown90@startup.io,38.70,USD,succeeded,credit_card,,,2026-07-03T07:48:10.525471Z
+txn_5cd79bc9cef145b8,Riley Martinez,riley.martinez90@outlook.com,13.51,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-14T13:22:12.525471Z
+txn_37c307232d704d8a,Jordan Martinez,jordan.martinez88@company.com,236.28,USD,failed,wallet,card_declined,The transaction was declined by the issuer.,2026-07-21T19:45:18.525471Z
+txn_5c1c9fdc6bda46a2,Jordan Johnson,jordan.johnson74@gmail.com,43.49,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-05T00:34:46.525471Z
+txn_49d67a3f4bb947cb,Alex Rodriguez,alex.rodriguez73@startup.io,97.91,USD,succeeded,credit_card,,,2026-08-25T12:43:36.525471Z
+txn_3f6c1b7d698b4984,Avery Smith,avery.smith61@hotmail.com,114.02,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-12T13:57:31.525471Z
+txn_d409c282ea6645ce,Avery Williams,avery.williams48@company.com,19.43,USD,succeeded,credit_card,,,2026-08-15T10:34:35.525471Z
+txn_1981df487e6e45de,Jamie Davis,jamie.davis39@company.com,35.04,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-09-03T11:45:26.525471Z
+txn_36ee20ec6c5244ae,Cameron Martinez,cameron.martinez50@company.com,208.69,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-20T11:59:12.525471Z
+txn_d2fd640d5ab4437f,Jordan Brown,jordan.brown30@company.com,24.99,USD,succeeded,debit_card,,,2026-06-16T21:33:28.525471Z
+txn_fadc360f399545fd,Casey Martinez,casey.martinez31@hotmail.com,24.15,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-24T12:04:48.525471Z
+txn_f86be4caec734a53,Peyton Johnson,peyton.johnson10@outlook.com,33.19,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-28T20:21:23.525471Z
+txn_cb7054f3c32e4746,Peyton Jones,peyton.jones67@hotmail.com,23.35,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-14T10:38:59.525471Z
+txn_8a4b70c9e5894ec6,Casey Martinez,casey.martinez75@outlook.com,33.09,USD,succeeded,wallet,,,2026-06-05T23:38:07.525471Z
+txn_13934d81286545ca,Morgan Rodriguez,morgan.rodriguez50@company.com,29.85,USD,succeeded,credit_card,,,2026-07-04T13:34:20.525471Z
+txn_87f5aec5548c44a5,Avery Jones,avery.jones69@outlook.com,197.08,USD,succeeded,credit_card,,,2026-08-10T17:33:24.525471Z
+txn_34667f007bc144cc,Taylor Smith,taylor.smith98@startup.io,139.14,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-29T14:59:18.525471Z
+txn_9a3279f372244b11,Casey Smith,casey.smith38@startup.io,31.93,USD,succeeded,credit_card,,,2026-07-05T00:18:26.525471Z
+txn_72fcfe5499b54368,Avery Rodriguez,avery.rodriguez25@company.com,22.21,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T12:24:15.525471Z
+txn_1a53e66529154203,Alex Davis,alex.davis99@gmail.com,346.83,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-09T10:56:02.525471Z
+txn_5287b83b2fd14a1c,Jordan Williams,jordan.williams58@startup.io,42.56,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-27T17:37:48.525471Z
+txn_909d04eedf6c489e,Casey Rodriguez,casey.rodriguez31@hotmail.com,40.73,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T05:23:38.525471Z
+txn_61dc2b7ec98b476e,Jamie Williams,jamie.williams87@company.com,44.48,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-01T07:49:07.525471Z
+txn_9a97b458979b47e4,Peyton Williams,peyton.williams35@gmail.com,326.76,USD,succeeded,debit_card,,,2026-06-09T08:04:02.525471Z
+txn_09bd5ae387fb4e0e,Casey Jones,casey.jones61@startup.io,11.60,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-09-03T10:38:05.525471Z
+txn_468061b64a8e42f7,Casey Williams,casey.williams16@company.com,12.41,USD,failed,credit_card,expired_card,The card has expired.,2026-06-14T01:50:33.525471Z
+txn_a31ba17ae7384a85,Taylor Jones,taylor.jones58@startup.io,104.31,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-30T01:48:17.525471Z
+txn_53c9ac833e7249bb,Casey Miller,casey.miller43@company.com,31.50,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-14T10:47:18.525471Z
+txn_58143e19c4ca4911,Skyler Williams,skyler.williams60@hotmail.com,257.25,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-02T01:31:08.525471Z
+txn_8ac6c98e1ba44c5b,Alex Jones,alex.jones82@yahoo.com,48.50,USD,succeeded,bank_transfer,,,2026-09-02T12:56:01.525471Z
+txn_cd837332a09a4fa6,Quinn Martinez,quinn.martinez25@company.com,422.87,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-12T14:19:56.525471Z
+txn_88c6eeb8e3584bfd,Casey Miller,casey.miller77@startup.io,75.37,USD,succeeded,credit_card,,,2026-07-30T21:35:23.525471Z
+txn_0e8da8cfa5a74485,Skyler Jones,skyler.jones88@gmail.com,21.54,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-23T21:28:52.525471Z
+txn_09e0ed1edd7a4f42,Alex Rodriguez,alex.rodriguez26@yahoo.com,19.84,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-06T20:48:00.525471Z
+txn_f08129f537224b73,Jordan Davis,jordan.davis70@company.com,23.42,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T15:39:33.525471Z
+txn_0ad6712a537e4b0e,Morgan Miller,morgan.miller57@yahoo.com,45.43,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-06T21:05:38.525471Z
+txn_78536dfd4d8f4c10,Taylor Miller,taylor.miller33@hotmail.com,25.34,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-04T00:14:26.525471Z
+txn_79ee40b275e7485e,Taylor Davis,taylor.davis19@outlook.com,277.82,USD,succeeded,credit_card,,,2026-07-22T23:27:05.525471Z
+txn_ffcb6088e3e44767,Skyler Williams,skyler.williams27@yahoo.com,2136.16,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-08-12T22:46:36.525471Z
+txn_5d68101af1214f4b,Riley Jones,riley.jones10@outlook.com,21.77,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-08T14:47:57.525471Z
+txn_a4ee69025dbe4ae9,Jordan Williams,jordan.williams35@company.com,222.52,USD,succeeded,credit_card,,,2026-08-31T07:07:59.525471Z
+txn_71f60b9091ab4527,Jordan Williams,jordan.williams46@hotmail.com,18.45,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-30T12:20:02.525471Z
+txn_093ffec95b9446ef,Morgan Rodriguez,morgan.rodriguez21@outlook.com,22.05,USD,succeeded,bank_transfer,,,2026-06-22T16:03:54.525471Z
+txn_3336f14fcbe64408,Riley Davis,riley.davis17@company.com,20.33,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-13T17:02:56.525471Z
+txn_43394deeebba489f,Quinn Johnson,quinn.johnson65@hotmail.com,20.99,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-11T14:22:48.525471Z
+txn_f594fae294f24772,Cameron Martinez,cameron.martinez69@yahoo.com,163.02,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-12T07:14:27.525471Z
+txn_5c636ac6de1a45fd,Avery Davis,avery.davis65@outlook.com,56.96,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-27T19:04:38.525471Z
+txn_e56c720547634149,Jordan Rodriguez,jordan.rodriguez93@startup.io,21.04,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-21T06:31:24.525471Z
+txn_1a7218bd22f54771,Jamie Davis,jamie.davis9@startup.io,63.12,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-19T19:06:11.525471Z
+txn_08e546db6b9945ed,Riley Johnson,riley.johnson65@company.com,26.89,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-07T23:04:59.525471Z
+txn_8a44747bb6b446b2,Jamie Rodriguez,jamie.rodriguez3@gmail.com,40.36,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-29T08:41:00.525471Z
+txn_28db8f7f97a04aef,Skyler Miller,skyler.miller50@yahoo.com,39.62,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-08T16:54:38.525471Z
+txn_f4f0e97f20274a7a,Avery Williams,avery.williams90@gmail.com,30.86,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-31T09:25:36.525471Z
+txn_889183c4d599422e,Alex Johnson,alex.johnson93@company.com,37.09,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-09-01T14:05:01.525471Z
+txn_9382fbde7a924df3,Quinn Miller,quinn.miller92@startup.io,17.51,USD,succeeded,wallet,,,2026-06-10T10:55:24.525471Z
+txn_80e6a5b7cae74d46,Jamie Jones,jamie.jones77@outlook.com,35.83,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-08-03T12:34:18.525471Z
+txn_1687bf8d37ee4f17,Riley Garcia,riley.garcia29@hotmail.com,24.66,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-07-25T04:42:02.525471Z
+txn_8215b80837e344fb,Morgan Rodriguez,morgan.rodriguez14@startup.io,50.49,USD,succeeded,credit_card,,,2026-08-06T12:41:52.525471Z
+txn_68da445260674260,Alex Brown,alex.brown63@hotmail.com,33.42,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T02:33:10.525471Z
+txn_7671031ff0cb4f04,Taylor Miller,taylor.miller72@company.com,23.91,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T15:16:24.525471Z
+txn_5f720b6b54e1428b,Riley Martinez,riley.martinez88@hotmail.com,2147.70,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-30T14:21:10.525471Z
+txn_701435798cb54ba2,Avery Brown,avery.brown77@gmail.com,15.55,USD,succeeded,credit_card,,,2026-06-10T02:36:38.525471Z
+txn_c4610b8ce7c043ce,Taylor Johnson,taylor.johnson89@company.com,22.50,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T22:59:23.525471Z
+txn_ae9d46a4ab3f4cf6,Casey Garcia,casey.garcia56@company.com,25.72,USD,succeeded,credit_card,,,2026-08-21T03:20:07.525471Z
+txn_e810c45719744ca6,Avery Brown,avery.brown78@hotmail.com,263.48,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-15T04:31:39.525471Z
+txn_764aecdc9f384cb9,Riley Garcia,riley.garcia91@hotmail.com,243.68,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-31T15:04:30.525471Z
+txn_4c376fa79f0f4695,Cameron Miller,cameron.miller93@gmail.com,28.71,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-09T01:55:39.525471Z
+txn_2f2cac6ece064e8d,Peyton Garcia,peyton.garcia43@gmail.com,167.65,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-08-04T07:26:54.525471Z
+txn_2fc5b35600ec4abb,Avery Davis,avery.davis87@gmail.com,1249.53,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-08-04T04:41:54.525471Z
+txn_3c4c544858a34e6b,Cameron Miller,cameron.miller84@yahoo.com,43.36,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-23T05:06:33.525471Z
+txn_7a1044e62ebb46a9,Morgan Martinez,morgan.martinez21@company.com,40.66,USD,succeeded,debit_card,,,2026-06-08T03:19:33.525471Z
+txn_e083b624c96b403d,Riley Johnson,riley.johnson41@yahoo.com,168.82,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-20T15:19:13.525471Z
+txn_8ff538c9daaf43a1,Peyton Rodriguez,peyton.rodriguez65@hotmail.com,33.88,USD,succeeded,credit_card,,,2026-08-26T18:09:07.525471Z
+txn_b0086783db154c05,Jamie Jones,jamie.jones36@company.com,285.48,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-11T22:38:42.525471Z
+txn_a2217d624f184540,Taylor Rodriguez,taylor.rodriguez51@outlook.com,127.77,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-01T06:52:46.525471Z
+txn_423b37fe385c4b09,Jamie Rodriguez,jamie.rodriguez23@gmail.com,1631.85,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-26T19:48:15.525471Z
+txn_aee4f4b6a42b4f6e,Taylor Smith,taylor.smith70@hotmail.com,214.07,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-26T11:34:39.525471Z
+txn_2811f9012f4647ff,Peyton Miller,peyton.miller41@company.com,31.30,USD,failed,wallet,card_declined,The transaction was declined by the issuer.,2026-08-31T13:16:21.525471Z
+txn_ebd355de18df424b,Jordan Smith,jordan.smith87@hotmail.com,252.74,USD,succeeded,credit_card,,,2026-06-29T03:14:08.525471Z
+txn_208a892c325f4229,Casey Rodriguez,casey.rodriguez55@gmail.com,256.23,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-31T23:58:16.525471Z
+txn_d520eb0eb0984081,Casey Williams,casey.williams84@startup.io,14.50,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-13T16:04:24.525471Z
+txn_d64f6cddb9e74964,Jamie Martinez,jamie.martinez15@startup.io,22.53,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-07-01T13:58:27.525471Z
+txn_0e7d44e3c1da4be6,Jamie Miller,jamie.miller52@outlook.com,22.36,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-13T12:09:27.525471Z
+txn_3ce59b70e2354b2e,Skyler Smith,skyler.smith9@hotmail.com,30.30,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-14T05:14:11.525471Z
+txn_ce0e536f042b483b,Skyler Garcia,skyler.garcia32@gmail.com,2001.35,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-23T03:35:55.525471Z
+txn_5957c23ae263441d,Jamie Williams,jamie.williams38@yahoo.com,18.42,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-10T11:04:09.525471Z
+txn_dc757e07a66547a7,Morgan Rodriguez,morgan.rodriguez96@yahoo.com,15.14,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-13T22:48:43.525471Z
+txn_465aaaee7071468d,Quinn Williams,quinn.williams15@startup.io,55.98,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-14T22:07:00.525471Z
+txn_3bfd10ad13144a64,Jamie Martinez,jamie.martinez58@company.com,19.13,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-09-01T02:02:32.525471Z
+txn_79f9ba516699415e,Cameron Smith,cameron.smith49@outlook.com,49.76,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-11T11:08:30.525471Z
+txn_ea81b140fc1d4dda,Jordan Miller,jordan.miller7@outlook.com,31.97,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-19T19:27:15.525471Z
+txn_e2e736cea0e84350,Avery Rodriguez,avery.rodriguez43@yahoo.com,47.43,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-08T00:38:04.525471Z
+txn_45bf765cb995493f,Alex Davis,alex.davis63@gmail.com,146.44,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-14T07:58:22.525471Z
+txn_ed84d2a22bf34c09,Jordan Smith,jordan.smith88@hotmail.com,44.59,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-01T05:26:06.525471Z
+txn_00667735cf7d46e2,Casey Jones,casey.jones91@startup.io,26.44,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-29T22:40:00.525471Z
+txn_1f925f558b4f4a62,Peyton Johnson,peyton.johnson31@startup.io,10.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-19T01:48:11.525471Z
+txn_1d76a2daeb0846be,Casey Jones,casey.jones43@gmail.com,45.90,USD,succeeded,bank_transfer,,,2026-07-15T23:22:55.525471Z
+txn_6475d55b26e44fa7,Alex Martinez,alex.martinez34@outlook.com,23.15,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-21T19:27:32.525471Z
+txn_a0036da603984d6d,Jordan Garcia,jordan.garcia40@hotmail.com,30.55,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T01:29:42.525471Z
+txn_85847f2cbbbe40c4,Quinn Jones,quinn.jones52@yahoo.com,1153.74,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-18T00:07:00.525471Z
+txn_c6a8510afd5142b2,Quinn Jones,quinn.jones25@outlook.com,45.67,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-16T18:10:49.525471Z
+txn_089c316fa10048e3,Alex Jones,alex.jones49@startup.io,27.63,USD,succeeded,credit_card,,,2026-06-29T08:27:53.525471Z
+txn_68a5b74e03a54729,Peyton Davis,peyton.davis34@outlook.com,132.02,USD,succeeded,credit_card,,,2026-07-09T03:11:53.525471Z
+txn_4dbed177cf9c4127,Alex Brown,alex.brown88@startup.io,14.22,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-27T17:13:51.525471Z
+txn_3f4edd02076f4332,Quinn Rodriguez,quinn.rodriguez90@gmail.com,21.15,USD,succeeded,credit_card,,,2026-07-20T16:26:30.525471Z
+txn_5caec222aa614733,Cameron Davis,cameron.davis41@company.com,298.79,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-14T22:19:45.525471Z
+txn_3774df30cc7049c4,Casey Jones,casey.jones44@outlook.com,40.54,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-03T11:59:40.525471Z
+txn_d49205ebb92344de,Jordan Brown,jordan.brown22@hotmail.com,43.12,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-31T21:18:56.525471Z
+txn_5619c697556a4826,Peyton Martinez,peyton.martinez52@yahoo.com,1683.83,USD,failed,credit_card,expired_card,The card has expired.,2026-06-28T12:02:08.525471Z
+txn_3c0d33d595a04c97,Taylor Jones,taylor.jones70@yahoo.com,1435.60,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-27T15:27:25.525471Z
+txn_cc91e98048474ae0,Skyler Davis,skyler.davis63@gmail.com,299.73,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-24T04:17:35.525471Z
+txn_d106d4f9146a419a,Riley Rodriguez,riley.rodriguez30@outlook.com,37.00,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-02T00:03:07.525471Z
+txn_d523db16b00745e6,Alex Rodriguez,alex.rodriguez2@hotmail.com,259.63,USD,succeeded,credit_card,,,2026-07-04T06:20:05.525471Z
+txn_3f482b3cf088408e,Morgan Rodriguez,morgan.rodriguez61@gmail.com,80.25,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-21T09:34:20.525471Z
+txn_cdd21212d7224b94,Jordan Brown,jordan.brown84@gmail.com,192.19,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-20T15:02:29.525471Z
+txn_7a4a6ea834f74455,Morgan Garcia,morgan.garcia37@outlook.com,36.56,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-05T02:08:39.525471Z
+txn_8cafc6c9b7cf40e1,Jordan Smith,jordan.smith73@yahoo.com,1124.28,USD,failed,debit_card,expired_card,The card has expired.,2026-07-27T00:12:10.525471Z
+txn_3b630c8b0a5b4dee,Jordan Johnson,jordan.johnson79@company.com,36.28,USD,succeeded,debit_card,,,2026-07-30T13:25:31.525471Z
+txn_8c0ea6336f0f4b1a,Morgan Martinez,morgan.martinez57@gmail.com,1392.77,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-08-29T22:31:07.525471Z
+txn_7c2f4be2a2ce4c5d,Jordan Rodriguez,jordan.rodriguez58@yahoo.com,25.35,USD,succeeded,wallet,,,2026-06-22T07:31:17.525471Z
+txn_a5f6004b74ec46cf,Alex Rodriguez,alex.rodriguez76@gmail.com,25.48,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-29T13:08:27.525471Z
+txn_e28ec6817c40452a,Taylor Williams,taylor.williams89@yahoo.com,187.68,USD,succeeded,credit_card,,,2026-08-14T20:37:35.525471Z
+txn_233d213cb4254ed9,Skyler Rodriguez,skyler.rodriguez2@startup.io,26.64,USD,succeeded,debit_card,,,2026-07-06T00:31:41.525471Z
+txn_fb7aaebe7c4f49d9,Avery Johnson,avery.johnson6@startup.io,25.97,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-08-17T18:00:34.525471Z
+txn_94ef2fc8cea7424e,Skyler Jones,skyler.jones69@company.com,1407.80,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-21T19:21:08.525471Z
+txn_7319f6505c8849f7,Taylor Brown,taylor.brown20@gmail.com,49.65,USD,succeeded,debit_card,,,2026-08-14T16:04:34.525471Z
+txn_2fe646965e2447d0,Peyton Davis,peyton.davis38@outlook.com,22.69,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-18T16:07:03.525471Z
+txn_245fbf64f0114b2c,Skyler Smith,skyler.smith90@company.com,118.11,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-13T16:49:06.525471Z
+txn_55e7b3278f764034,Skyler Jones,skyler.jones28@outlook.com,30.05,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-20T06:36:19.525471Z
+txn_4f66dcba561e48b7,Riley Martinez,riley.martinez82@yahoo.com,24.16,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T09:10:26.525471Z
+txn_b352eb2ea6694171,Casey Williams,casey.williams20@outlook.com,2393.07,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-01T11:53:30.525471Z
+txn_1d65e9831517436c,Morgan Jones,morgan.jones92@company.com,41.97,USD,succeeded,credit_card,,,2026-06-07T09:00:53.525471Z
+txn_1d07ebb9a2b84007,Alex Jones,alex.jones41@gmail.com,40.32,USD,succeeded,credit_card,,,2026-07-14T22:27:22.525471Z
+txn_c5a182bd946e4c5d,Jamie Jones,jamie.jones24@startup.io,36.58,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T15:37:56.525471Z
+txn_6df0f1ad72e543d6,Jordan Martinez,jordan.martinez73@yahoo.com,49.08,USD,succeeded,credit_card,,,2026-06-13T20:11:12.525471Z
+txn_49c851226ef946f2,Alex Johnson,alex.johnson16@gmail.com,39.09,USD,succeeded,credit_card,,,2026-07-12T20:17:13.525471Z
+txn_801beeb7d75a47dc,Cameron Rodriguez,cameron.rodriguez25@yahoo.com,191.54,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-02T23:54:43.525471Z
+txn_d962e8d10b27417b,Peyton Williams,peyton.williams16@yahoo.com,78.91,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-15T02:04:50.525471Z
+txn_dd79c85b74a24ba0,Skyler Smith,skyler.smith61@outlook.com,32.53,USD,failed,wallet,card_declined,The transaction was declined by the issuer.,2026-08-29T21:39:50.525471Z
+txn_c532391224244384,Casey Miller,casey.miller82@company.com,1229.38,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T07:46:46.525471Z
+txn_532b1b0c3e9843e5,Quinn Garcia,quinn.garcia23@yahoo.com,124.51,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T03:11:23.525471Z
+txn_9ebd377c408745f9,Riley Martinez,riley.martinez35@outlook.com,2487.41,USD,succeeded,bank_transfer,,,2026-07-04T02:35:55.525471Z
+txn_d123de1498dd4979,Taylor Johnson,taylor.johnson40@company.com,15.79,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-26T21:14:44.525471Z
+txn_1597c5d85e8045ec,Skyler Jones,skyler.jones79@startup.io,210.09,USD,succeeded,credit_card,,,2026-07-26T17:27:01.525471Z
+txn_4378a45004164970,Jamie Martinez,jamie.martinez13@company.com,36.26,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-20T00:41:14.525471Z
+txn_63ad8deba88e4416,Cameron Johnson,cameron.johnson87@yahoo.com,250.80,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-07-31T21:24:49.525471Z
+txn_8d84eaef60be404a,Quinn Williams,quinn.williams96@gmail.com,213.00,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T01:10:21.525471Z
+txn_4771a0cec44d4531,Taylor Garcia,taylor.garcia1@yahoo.com,258.68,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-09T13:45:09.525471Z
+txn_8f1ac8e659624f8f,Riley Jones,riley.jones67@company.com,43.35,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-26T18:17:41.525471Z
+txn_d0ca429a01c0469c,Quinn Rodriguez,quinn.rodriguez22@yahoo.com,14.65,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-08T22:17:48.525471Z
+txn_d86600fc39dd419e,Quinn Williams,quinn.williams71@startup.io,37.44,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-13T17:53:18.525471Z
+txn_dcf34b892f8443ef,Skyler Johnson,skyler.johnson25@gmail.com,2116.29,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-03T16:13:08.525471Z
+txn_2b0df9b303474819,Morgan Johnson,morgan.johnson15@gmail.com,953.73,USD,failed,bank_transfer,expired_card,The card has expired.,2026-07-20T08:28:27.525471Z
+txn_0c07f3fd63b44901,Riley Davis,riley.davis25@company.com,18.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-29T19:33:38.525471Z
+txn_08e89324eb03443e,Quinn Brown,quinn.brown13@gmail.com,39.76,USD,succeeded,credit_card,,,2026-06-25T14:24:34.525471Z
+txn_d167f1d834ec454d,Taylor Martinez,taylor.martinez1@outlook.com,815.13,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-03T06:01:20.525471Z
+txn_61558bdb2d4441c0,Taylor Johnson,taylor.johnson1@company.com,199.53,USD,succeeded,debit_card,,,2026-06-11T10:11:03.525471Z
+txn_40cfbb7a55b54777,Riley Garcia,riley.garcia72@startup.io,18.98,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T16:44:26.525471Z
+txn_41d57e79a2334681,Cameron Rodriguez,cameron.rodriguez12@hotmail.com,59.72,USD,succeeded,credit_card,,,2026-08-17T03:23:13.525471Z
+txn_5d90850776404871,Peyton Brown,peyton.brown1@yahoo.com,257.21,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-23T09:04:27.525471Z
+txn_8141f85da37442f9,Alex Smith,alex.smith57@hotmail.com,18.18,USD,succeeded,credit_card,,,2026-07-03T07:11:07.525471Z
+txn_2cfad705bef04045,Jordan Williams,jordan.williams99@yahoo.com,2244.52,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-09-02T03:30:21.525471Z
+txn_0bc990f6694f43eb,Cameron Garcia,cameron.garcia84@hotmail.com,41.95,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-22T15:03:13.525471Z
+txn_f7f12da05e964f92,Casey Johnson,casey.johnson94@startup.io,234.22,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-08T16:23:05.525471Z
+txn_a295f1dfb602460b,Casey Garcia,casey.garcia52@company.com,38.39,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T12:58:31.525471Z
+txn_77482939b8f046e7,Jordan Davis,jordan.davis58@yahoo.com,1739.60,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-04T11:40:57.525471Z
+txn_aeba93a75e1f44fb,Peyton Brown,peyton.brown55@company.com,20.96,USD,succeeded,credit_card,,,2026-06-14T18:16:24.525471Z
+txn_20ab1458025a4cda,Jamie Martinez,jamie.martinez71@hotmail.com,192.61,USD,succeeded,debit_card,,,2026-06-25T19:17:48.525471Z
+txn_e89ac86aa5e04ebf,Avery Johnson,avery.johnson30@outlook.com,19.70,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-28T04:40:02.525471Z
+txn_e16b72c0303f453b,Cameron Martinez,cameron.martinez86@hotmail.com,47.63,USD,succeeded,debit_card,,,2026-08-19T04:00:38.525471Z
+txn_94cabd4dfacc4c05,Cameron Smith,cameron.smith90@gmail.com,22.91,USD,succeeded,credit_card,,,2026-06-11T10:08:53.525471Z
+txn_b4842562c6204131,Cameron Johnson,cameron.johnson96@gmail.com,26.36,USD,failed,credit_card,expired_card,The card has expired.,2026-09-02T11:32:50.525471Z
+txn_4d430bc0ab954abc,Avery Miller,avery.miller36@startup.io,12.24,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-08T01:15:36.525471Z
+txn_995acc15ef1544fe,Avery Garcia,avery.garcia53@hotmail.com,13.54,USD,succeeded,debit_card,,,2026-06-09T20:15:25.525471Z
+txn_f65727fa19e14c3f,Quinn Smith,quinn.smith11@gmail.com,26.00,USD,succeeded,credit_card,,,2026-08-24T14:38:27.525471Z
+txn_26f4be62d12d4605,Quinn Williams,quinn.williams55@company.com,49.18,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-22T18:55:25.525471Z
+txn_50b550445ec148ee,Alex Miller,alex.miller97@company.com,145.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-29T00:55:04.525471Z
+txn_9f1952abd8834ced,Skyler Rodriguez,skyler.rodriguez28@yahoo.com,33.33,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-08-27T12:38:14.525471Z
+txn_6f6dce0748de46ef,Peyton Martinez,peyton.martinez3@startup.io,180.17,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-15T13:27:31.525471Z
+txn_6ded5e7268514ac5,Quinn Garcia,quinn.garcia65@company.com,47.11,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-26T23:37:06.525471Z
+txn_3320cb705c3d42c7,Riley Garcia,riley.garcia62@hotmail.com,25.17,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-08T13:11:57.525471Z
+txn_81772fa8d26343c8,Casey Martinez,casey.martinez41@company.com,19.90,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-28T13:13:05.525471Z
+txn_f151168a47a34027,Taylor Brown,taylor.brown1@company.com,38.54,USD,succeeded,credit_card,,,2026-06-16T15:11:34.525471Z
+txn_61039da95b1145c1,Jordan Garcia,jordan.garcia52@company.com,34.07,USD,succeeded,debit_card,,,2026-07-09T00:15:56.525471Z
+txn_2545ad1d849345cf,Quinn Johnson,quinn.johnson56@outlook.com,29.60,USD,succeeded,debit_card,,,2026-07-15T23:25:45.525471Z
+txn_309042d2fbde44fb,Quinn Brown,quinn.brown71@startup.io,38.41,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-06T17:22:21.525471Z
+txn_734ce91076c64869,Jordan Williams,jordan.williams30@startup.io,38.78,USD,succeeded,debit_card,,,2026-08-20T02:57:49.525471Z
+txn_ac52b32c4bd6402c,Avery Jones,avery.jones18@hotmail.com,20.61,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T17:08:34.525471Z
+txn_43ff43fedbb54aac,Avery Johnson,avery.johnson67@company.com,27.14,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-10T00:52:56.525471Z
+txn_8de6dfaa2efe4c8b,Peyton Garcia,peyton.garcia58@company.com,898.59,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T14:18:53.525471Z
+txn_191edffadba74673,Jamie Miller,jamie.miller49@startup.io,156.55,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-12T00:13:24.525471Z
+txn_6e90527f2af04236,Quinn Jones,quinn.jones77@startup.io,28.26,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-06-17T21:03:08.525471Z
+txn_d334067738d04cef,Skyler Martinez,skyler.martinez29@hotmail.com,30.90,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-29T22:43:46.525471Z
+txn_4ffcbe6eedcc4325,Taylor Jones,taylor.jones36@outlook.com,179.26,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-21T15:15:28.525471Z
+txn_55a71a297b0b4f7e,Morgan Smith,morgan.smith76@company.com,1734.06,USD,succeeded,credit_card,,,2026-07-04T07:11:40.525471Z
+txn_053d0ac5de924035,Quinn Garcia,quinn.garcia35@hotmail.com,10.73,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-08-21T12:18:16.525471Z
+txn_78d0e025dbd04265,Skyler Williams,skyler.williams31@outlook.com,40.13,USD,succeeded,credit_card,,,2026-08-09T10:32:57.525471Z
+txn_b7a6820f124d4765,Jordan Martinez,jordan.martinez37@hotmail.com,79.49,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-31T10:07:36.525471Z
+txn_dee3d4e73ff14987,Morgan Johnson,morgan.johnson69@gmail.com,1741.21,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-13T14:17:57.525471Z
+txn_a9090834498547da,Casey Davis,casey.davis86@yahoo.com,183.89,USD,succeeded,bank_transfer,,,2026-08-31T06:50:03.525471Z
+txn_14ec11efa9944294,Skyler Jones,skyler.jones42@company.com,42.40,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-02T04:45:58.525471Z
+txn_83dbb4be79e74586,Casey Smith,casey.smith81@yahoo.com,116.56,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-03T11:09:59.525471Z
+txn_d7fceabf6b2a4b3a,Casey Garcia,casey.garcia63@gmail.com,42.36,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-19T21:06:06.525471Z
+txn_c95b2ad80eef4bc0,Skyler Martinez,skyler.martinez90@gmail.com,24.38,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-01T13:30:18.525471Z
+txn_a8d37789f4e7473c,Peyton Smith,peyton.smith17@company.com,43.64,USD,failed,credit_card,expired_card,The card has expired.,2026-07-10T16:42:57.525471Z
+txn_68ade6eaaabc4514,Jordan Smith,jordan.smith71@outlook.com,295.93,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T06:17:04.525471Z
+txn_873064e260954c81,Alex Martinez,alex.martinez6@company.com,36.84,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-09-02T01:28:58.525471Z
+txn_0e94b316601441ac,Jamie Davis,jamie.davis77@hotmail.com,256.86,USD,succeeded,credit_card,,,2026-08-30T20:56:31.525471Z
+txn_d32ab7f8f0574fff,Peyton Smith,peyton.smith7@hotmail.com,15.25,USD,succeeded,debit_card,,,2026-07-14T00:51:03.525471Z
+txn_022e709829e64112,Taylor Johnson,taylor.johnson11@hotmail.com,19.52,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-21T06:08:04.525471Z
+txn_e8268915ab374c30,Alex Jones,alex.jones72@gmail.com,47.90,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-19T01:37:52.525471Z
+txn_7d473378ce7943cf,Alex Brown,alex.brown8@company.com,36.47,USD,succeeded,credit_card,,,2026-07-19T23:13:47.525471Z
+txn_1202b4f669e940e8,Riley Rodriguez,riley.rodriguez81@outlook.com,100.92,USD,succeeded,credit_card,,,2026-08-03T06:52:12.525471Z
+txn_ebfdd0e88c304358,Jamie Martinez,jamie.martinez76@yahoo.com,34.44,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-12T00:25:00.525471Z
+txn_0df52f34589540b2,Alex Davis,alex.davis18@company.com,61.33,USD,failed,credit_card,expired_card,The card has expired.,2026-07-01T16:34:17.525471Z
+txn_3c2a5c91678c4ea6,Skyler Smith,skyler.smith76@hotmail.com,26.09,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-03T12:59:10.525471Z
+txn_927a86b50a5c4a24,Riley Smith,riley.smith17@startup.io,96.48,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-11T17:42:37.525471Z
+txn_b81a3bc040e940f3,Jamie Jones,jamie.jones32@startup.io,1456.07,USD,succeeded,wallet,,,2026-08-01T21:23:12.525471Z
+txn_2415a2fbdb6849c4,Casey Jones,casey.jones70@company.com,134.48,USD,succeeded,credit_card,,,2026-06-26T00:04:27.525471Z
+txn_f826caf89d3e4b06,Peyton Smith,peyton.smith78@gmail.com,61.22,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T09:14:22.525471Z
+txn_f0683ee2a3bd4bcd,Morgan Martinez,morgan.martinez36@outlook.com,25.07,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-05T21:01:16.525471Z
+txn_f5c125fda2754e50,Jordan Rodriguez,jordan.rodriguez60@startup.io,27.15,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-23T16:24:49.525471Z
+txn_ae69aedc49b74964,Taylor Davis,taylor.davis16@company.com,20.46,USD,succeeded,credit_card,,,2026-06-26T02:12:31.525471Z
+txn_8b780b69a74a4285,Morgan Garcia,morgan.garcia14@startup.io,26.17,USD,failed,debit_card,expired_card,The card has expired.,2026-06-28T15:30:48.525471Z
+txn_592c59282cd047aa,Skyler Rodriguez,skyler.rodriguez44@hotmail.com,220.01,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-17T11:00:03.525471Z
+txn_12d75bfde140452b,Jamie Brown,jamie.brown51@gmail.com,29.44,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-17T13:13:28.525471Z
+txn_aeecb467911843f9,Skyler Johnson,skyler.johnson81@gmail.com,35.81,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-14T02:42:32.525471Z
+txn_f0bb652b26df4f32,Alex Jones,alex.jones42@hotmail.com,282.11,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-01T22:37:26.525471Z
+txn_89049e9ca52b4dfd,Riley Jones,riley.jones16@startup.io,187.58,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-22T23:58:16.525471Z
+txn_b932e90d4cf14996,Riley Smith,riley.smith26@startup.io,23.58,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-01T19:21:16.525471Z
+txn_572fb9155f4e49b2,Jamie Rodriguez,jamie.rodriguez66@yahoo.com,34.80,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-17T07:57:56.525471Z
+txn_0c1948d0e39e4f00,Alex Jones,alex.jones7@outlook.com,13.07,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-08T16:43:56.525471Z
+txn_ddc14d4960f44ac7,Skyler Johnson,skyler.johnson99@gmail.com,20.60,USD,succeeded,bank_transfer,,,2026-06-13T08:46:59.525471Z
+txn_27c24483c34d463e,Quinn Rodriguez,quinn.rodriguez79@company.com,88.50,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-07-29T09:27:18.525471Z
+txn_0c7dc4a342d74945,Avery Williams,avery.williams33@hotmail.com,29.62,USD,succeeded,credit_card,,,2026-07-18T20:40:53.525471Z
+txn_0194ff18dc854b56,Riley Martinez,riley.martinez59@hotmail.com,146.89,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-21T06:41:10.525471Z
+txn_197f7de4f31d4592,Taylor Smith,taylor.smith77@outlook.com,42.33,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-22T09:20:26.525471Z
+txn_650e57cfb1de4112,Peyton Martinez,peyton.martinez14@hotmail.com,28.51,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-20T12:40:23.525471Z
+txn_0395a9feb4744905,Skyler Rodriguez,skyler.rodriguez12@company.com,47.12,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T20:16:43.525471Z
+txn_63077d6a6c46487f,Morgan Brown,morgan.brown9@hotmail.com,41.52,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-08T16:20:16.525471Z
+txn_3c09f9683806403a,Skyler Smith,skyler.smith54@outlook.com,49.57,USD,succeeded,credit_card,,,2026-06-13T17:52:32.525471Z
+txn_62896db45b8449f5,Peyton Miller,peyton.miller98@outlook.com,40.93,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-30T22:00:12.525471Z
+txn_d6ffd71f1c3f4720,Skyler Rodriguez,skyler.rodriguez46@gmail.com,126.43,USD,succeeded,debit_card,,,2026-09-02T06:09:47.525471Z
+txn_a05379f34f7e491c,Alex Williams,alex.williams24@yahoo.com,12.60,USD,succeeded,debit_card,,,2026-07-21T07:24:58.525471Z
+txn_b3c4e632cb874815,Avery Williams,avery.williams36@yahoo.com,49.96,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-16T00:52:32.525471Z
+txn_25b7d26dc05f4a73,Alex Garcia,alex.garcia20@company.com,15.44,USD,succeeded,credit_card,,,2026-08-17T02:21:09.525471Z
+txn_1bda842da83e463c,Jamie Brown,jamie.brown90@outlook.com,66.65,USD,failed,bank_transfer,expired_card,The card has expired.,2026-07-30T04:53:31.525471Z
+txn_70ebb114c1f34f45,Peyton Miller,peyton.miller98@outlook.com,21.10,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-02T12:38:51.525471Z
+txn_7450754e084a4105,Quinn Johnson,quinn.johnson38@company.com,292.58,USD,failed,wallet,stolen_card,The card is reported lost or stolen.,2026-07-22T22:23:16.525471Z
+txn_bcd8477fef214ab6,Cameron Rodriguez,cameron.rodriguez32@hotmail.com,16.91,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-17T02:15:23.525471Z
+txn_6a686ed824e44588,Peyton Davis,peyton.davis74@startup.io,1833.53,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-15T07:20:14.525471Z
+txn_a7fc22e63f194505,Alex Miller,alex.miller54@outlook.com,37.81,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-25T11:06:01.525471Z
+txn_1efc938db8c54fbb,Jamie Brown,jamie.brown24@company.com,41.33,USD,succeeded,debit_card,,,2026-06-14T00:59:14.525471Z
+txn_88ee447ef2454c02,Avery Williams,avery.williams43@hotmail.com,35.70,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-22T08:26:56.525471Z
+txn_9ca67fc54b744d1a,Riley Williams,riley.williams91@startup.io,318.32,USD,failed,bank_transfer,expired_card,The card has expired.,2026-08-09T15:13:58.525471Z
+txn_ecc2c2f6ba0542f1,Skyler Davis,skyler.davis96@gmail.com,30.23,USD,succeeded,credit_card,,,2026-06-26T04:47:48.525471Z
+txn_1e57a3276dd54c43,Jamie Garcia,jamie.garcia27@gmail.com,14.76,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-12T15:52:43.525471Z
+txn_727291984c8a461a,Peyton Rodriguez,peyton.rodriguez28@startup.io,45.64,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-30T17:36:11.525471Z
+txn_0d53d4c4db6545c1,Alex Johnson,alex.johnson89@outlook.com,231.09,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-10T16:14:38.525471Z
+txn_2c2ad8f185664a66,Peyton Brown,peyton.brown30@outlook.com,44.04,USD,failed,credit_card,expired_card,The card has expired.,2026-07-12T13:28:35.525471Z
+txn_f5a10f38cf6a47cb,Alex Martinez,alex.martinez91@outlook.com,35.09,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-23T11:50:15.525471Z
+txn_4e5f65decbb04f09,Jordan Johnson,jordan.johnson82@hotmail.com,17.17,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-06-21T20:41:07.525471Z
+txn_55e543b2ffd04aec,Peyton Garcia,peyton.garcia3@startup.io,281.95,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T06:10:32.525471Z
+txn_6cb3c90740c545b8,Casey Johnson,casey.johnson19@hotmail.com,36.39,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-01T23:36:41.525471Z
+txn_8866c4c479fa42f1,Jordan Smith,jordan.smith12@outlook.com,33.05,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-27T00:00:08.525471Z
+txn_569e290f736f46f4,Avery Rodriguez,avery.rodriguez92@hotmail.com,13.42,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-06T09:44:52.525471Z
+txn_c672bef8232f4caf,Avery Jones,avery.jones30@startup.io,1909.53,USD,failed,debit_card,expired_card,The card has expired.,2026-07-04T20:50:45.525471Z
+txn_c72410836a4a4650,Peyton Davis,peyton.davis52@startup.io,48.47,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-09T01:30:52.525471Z
+txn_43b5590de7684dae,Quinn Davis,quinn.davis39@gmail.com,1050.42,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-04T20:35:11.525471Z
+txn_254f013acc5f41f1,Peyton Martinez,peyton.martinez8@startup.io,22.85,USD,succeeded,credit_card,,,2026-06-27T13:19:14.525471Z
+txn_dcde106a7dd14ec1,Peyton Rodriguez,peyton.rodriguez88@outlook.com,11.64,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-21T03:22:34.525471Z
+txn_2f0a5e1d2daf4173,Jordan Martinez,jordan.martinez60@company.com,47.13,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-25T15:11:11.525471Z
+txn_8913b85052f647f5,Taylor Brown,taylor.brown69@outlook.com,23.17,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-06T21:32:22.525471Z
+txn_e2b397d96d924251,Peyton Jones,peyton.jones41@gmail.com,162.12,USD,failed,wallet,card_declined,The transaction was declined by the issuer.,2026-08-19T12:13:03.525471Z
+txn_d927bb632af84a15,Morgan Davis,morgan.davis86@company.com,41.61,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-18T21:15:28.525471Z
+txn_5f200aa980c74302,Jamie Rodriguez,jamie.rodriguez91@gmail.com,15.42,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-06T19:25:49.525471Z
+txn_5b997993aaee438f,Quinn Jones,quinn.jones83@company.com,264.09,USD,succeeded,credit_card,,,2026-06-26T22:35:09.525471Z
+txn_2bc257ea36ca46e2,Alex Garcia,alex.garcia53@startup.io,84.03,USD,succeeded,credit_card,,,2026-08-23T11:24:39.525471Z
+txn_8cceb4ecbd694628,Skyler Jones,skyler.jones67@startup.io,289.78,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-14T19:06:24.525471Z
+txn_add1907c433f4506,Riley Martinez,riley.martinez40@company.com,17.72,USD,succeeded,credit_card,,,2026-06-16T04:19:41.525471Z
+txn_7de62ee1c5194e3a,Alex Williams,alex.williams90@hotmail.com,152.13,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-02T10:41:55.525471Z
+txn_aafb5288f5414514,Taylor Williams,taylor.williams73@hotmail.com,26.82,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-23T22:06:18.525471Z
+txn_570d357199cb4c06,Jamie Williams,jamie.williams90@company.com,13.81,USD,succeeded,bank_transfer,,,2026-08-06T08:16:44.525471Z
+txn_3348c10b24444d7c,Taylor Jones,taylor.jones62@company.com,206.21,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T21:52:51.525471Z
+txn_382fdd453fdd43ca,Jordan Garcia,jordan.garcia7@yahoo.com,50.04,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-02T03:21:13.525471Z
+txn_aa7529ca518847b4,Jamie Martinez,jamie.martinez78@outlook.com,32.47,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-30T22:08:13.525471Z
+txn_53c89434afb7465b,Skyler Smith,skyler.smith17@outlook.com,107.34,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-26T07:36:38.525471Z
+txn_0fa9e8a675634a58,Jamie Davis,jamie.davis93@hotmail.com,18.76,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-07-10T04:13:23.525471Z
+txn_0bc417fff7834798,Peyton Williams,peyton.williams36@gmail.com,35.65,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-01T12:09:49.525471Z
+txn_5168d6ce49884ac4,Quinn Williams,quinn.williams81@startup.io,157.86,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-29T06:05:15.525471Z
+txn_abcddf18d90d4070,Skyler Martinez,skyler.martinez15@company.com,15.45,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-02T17:19:39.525471Z
+txn_85dd7d5c3dcc41d4,Cameron Miller,cameron.miller92@outlook.com,177.37,USD,failed,bank_transfer,stolen_card,The card is reported lost or stolen.,2026-08-26T16:28:41.525471Z
+txn_3274ea449e79457b,Peyton Brown,peyton.brown33@hotmail.com,212.57,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T02:21:05.525471Z
+txn_adb143551b734d68,Casey Smith,casey.smith81@startup.io,116.39,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T15:53:06.525471Z
+txn_74354c463f7c4b71,Casey Rodriguez,casey.rodriguez38@startup.io,28.13,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-21T01:57:17.525471Z
+txn_2375533a5995466f,Cameron Jones,cameron.jones88@company.com,22.76,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-07T18:53:44.525471Z
+txn_3e87ab1bb1184104,Quinn Johnson,quinn.johnson18@hotmail.com,215.91,USD,succeeded,credit_card,,,2026-07-18T23:09:34.525471Z
+txn_53ef408d800947fa,Taylor Williams,taylor.williams77@yahoo.com,216.44,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-09T00:09:26.525471Z
+txn_b55edfc73e144e1f,Avery Garcia,avery.garcia13@yahoo.com,1654.47,USD,succeeded,debit_card,,,2026-09-03T01:05:31.525471Z
+txn_b1c397a23cfc4cb9,Taylor Jones,taylor.jones34@outlook.com,23.25,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-28T19:58:12.525471Z
+txn_e9e993abd2d34207,Peyton Williams,peyton.williams73@yahoo.com,48.34,USD,succeeded,credit_card,,,2026-08-20T05:57:34.525471Z
+txn_aec2ccde0d944a4f,Avery Jones,avery.jones20@yahoo.com,128.48,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-29T01:36:39.525471Z
+txn_07fb5cbf3cef4168,Taylor Miller,taylor.miller37@yahoo.com,149.45,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-07-05T08:31:31.525471Z
+txn_82c15bfe2dc747d2,Riley Garcia,riley.garcia8@yahoo.com,115.05,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-07-29T00:17:48.525471Z
+txn_6b3a6614ff5a4a45,Quinn Rodriguez,quinn.rodriguez78@startup.io,21.73,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-07T15:40:31.525471Z
+txn_0cbeec5ddd7247ae,Riley Davis,riley.davis50@startup.io,36.25,USD,succeeded,debit_card,,,2026-07-03T03:18:45.525471Z
+txn_1f37d3455c114cf6,Jamie Brown,jamie.brown68@hotmail.com,47.90,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-17T03:25:26.525471Z
+txn_e14b97250d8e44a7,Cameron Smith,cameron.smith97@startup.io,21.66,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-12T11:37:37.525471Z
+txn_49eb2b8b27e84317,Morgan Rodriguez,morgan.rodriguez58@yahoo.com,32.14,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-28T23:35:17.525471Z
+txn_133d723291af4d21,Peyton Johnson,peyton.johnson40@company.com,240.65,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-07-23T07:58:09.525471Z
+txn_4214b7fbaafb459d,Avery Miller,avery.miller41@outlook.com,115.23,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-25T14:13:40.525471Z
+txn_7b0e20d2eed64c7d,Skyler Garcia,skyler.garcia80@company.com,18.39,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T13:32:31.525471Z
+txn_184f56ee18f54258,Riley Jones,riley.jones49@gmail.com,42.77,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-09-03T12:10:17.525471Z
+txn_40dbf28e86b14d69,Riley Rodriguez,riley.rodriguez47@yahoo.com,36.98,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-11T21:27:30.525471Z
+txn_49d5160350ab4049,Jordan Miller,jordan.miller46@yahoo.com,29.04,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-06T06:26:40.525471Z
+txn_f9009c13cd3d4138,Jordan Davis,jordan.davis29@company.com,14.58,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-23T07:34:17.525471Z
+txn_a6081c4907504c09,Alex Rodriguez,alex.rodriguez84@hotmail.com,42.81,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-01T06:06:30.525471Z
+txn_de5948a6a30d461d,Jordan Williams,jordan.williams86@company.com,246.63,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-22T01:06:22.525471Z
+txn_ebfd71ba2fbb44d6,Quinn Rodriguez,quinn.rodriguez60@outlook.com,42.31,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-06-28T12:00:10.525471Z
+txn_d7dee7c50ecb4162,Quinn Rodriguez,quinn.rodriguez25@hotmail.com,30.25,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-06-12T23:58:05.525471Z
+txn_a18f36b283114c45,Quinn Brown,quinn.brown11@hotmail.com,41.49,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-20T11:38:37.525471Z
+txn_34fa889868cb4d32,Taylor Jones,taylor.jones62@yahoo.com,39.78,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-05T02:14:59.525471Z
+txn_071b6e63aa5b42c2,Morgan Johnson,morgan.johnson1@hotmail.com,26.05,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T12:34:04.525471Z
+txn_962ce933f1324b94,Taylor Smith,taylor.smith63@startup.io,21.03,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-03T05:36:21.525471Z
+txn_01f2d6ec0175489b,Morgan Garcia,morgan.garcia43@outlook.com,243.29,USD,failed,credit_card,expired_card,The card has expired.,2026-08-24T07:49:40.525471Z
+txn_525344a870dd4444,Jordan Johnson,jordan.johnson27@yahoo.com,28.48,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-06-26T18:55:22.525471Z
+txn_fae87605e92b4178,Peyton Martinez,peyton.martinez39@yahoo.com,18.13,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-21T08:43:12.525471Z
+txn_58eab5d54fa3497d,Morgan Martinez,morgan.martinez35@outlook.com,13.91,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-16T03:39:38.525471Z
+txn_d2516c8031654a7e,Jamie Johnson,jamie.johnson2@outlook.com,132.73,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-03T06:21:30.525471Z
+txn_eab50eae0c554c98,Casey Miller,casey.miller85@outlook.com,153.25,USD,succeeded,credit_card,,,2026-07-14T23:26:55.525471Z
+txn_46cabb5087fb4fbc,Jordan Brown,jordan.brown16@hotmail.com,171.20,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-06T13:58:42.525471Z
+txn_71685c0443164615,Riley Rodriguez,riley.rodriguez1@yahoo.com,48.43,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-12T22:18:31.525471Z
+txn_904d06818a9240d0,Peyton Martinez,peyton.martinez73@startup.io,21.31,USD,succeeded,credit_card,,,2026-07-06T15:30:02.525471Z
+txn_7078fb6ee13b4889,Alex Williams,alex.williams56@company.com,16.89,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-27T01:24:10.525471Z
+txn_c1301126bb994843,Quinn Brown,quinn.brown40@hotmail.com,294.71,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-07T11:07:34.525471Z
+txn_a2475c5150ca4ee6,Quinn Brown,quinn.brown91@gmail.com,37.46,USD,succeeded,credit_card,,,2026-08-09T08:30:02.525471Z
+txn_db16c290d2b4400a,Avery Rodriguez,avery.rodriguez43@outlook.com,159.02,USD,succeeded,debit_card,,,2026-07-10T22:10:35.525471Z
+txn_e8249d7ab3a74657,Morgan Garcia,morgan.garcia12@company.com,1038.43,USD,succeeded,credit_card,,,2026-06-27T08:41:10.525471Z
+txn_e0b668b2a5384eab,Peyton Johnson,peyton.johnson59@gmail.com,1312.56,USD,succeeded,credit_card,,,2026-07-26T12:35:49.525471Z
+txn_2cd5a2c4f1ac4517,Quinn Rodriguez,quinn.rodriguez79@startup.io,275.44,USD,succeeded,bank_transfer,,,2026-08-13T11:05:38.525471Z
+txn_73f7de2501d74486,Taylor Williams,taylor.williams4@startup.io,27.90,USD,succeeded,credit_card,,,2026-08-01T07:53:15.525471Z
+txn_a855bdc343b6420f,Jamie Jones,jamie.jones6@hotmail.com,11.76,USD,failed,debit_card,expired_card,The card has expired.,2026-06-23T19:51:11.525471Z
+txn_bc369e79b8cd48f0,Skyler Martinez,skyler.martinez61@company.com,20.47,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-17T01:03:46.525471Z
+txn_95760ed185534592,Jordan Davis,jordan.davis56@startup.io,35.71,USD,failed,credit_card,expired_card,The card has expired.,2026-07-25T19:22:28.525471Z
+txn_7d6e26d8391143eb,Cameron Miller,cameron.miller61@startup.io,198.63,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-08-10T21:26:53.525471Z
+txn_111d754f21fd43d5,Alex Jones,alex.jones42@startup.io,210.02,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-10T19:22:43.525471Z
+txn_7c020ac03af34863,Jordan Jones,jordan.jones12@startup.io,45.85,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-23T07:25:42.525471Z
+txn_82658b866d304577,Skyler Johnson,skyler.johnson51@yahoo.com,15.21,USD,succeeded,credit_card,,,2026-07-18T10:57:17.525471Z
+txn_349fbed8ea7f41dc,Avery Martinez,avery.martinez85@hotmail.com,175.47,USD,succeeded,debit_card,,,2026-08-11T20:04:02.525471Z
+txn_57cd821ee99b4253,Peyton Johnson,peyton.johnson87@company.com,34.38,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-07-14T10:35:56.525471Z
+txn_1df0cf50dbec4b76,Jamie Martinez,jamie.martinez5@hotmail.com,19.65,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-30T16:47:49.525471Z
+txn_46f61b7c69394c2a,Alex Johnson,alex.johnson69@gmail.com,33.00,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-17T09:36:14.525471Z
+txn_65a2a2a01fca4069,Taylor Garcia,taylor.garcia6@outlook.com,39.76,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T11:02:18.525471Z
+txn_615e00a3570f42f0,Peyton Martinez,peyton.martinez33@hotmail.com,190.05,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-07T19:08:54.525471Z
+txn_e5b0a456964945d7,Alex Miller,alex.miller45@startup.io,250.27,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-11T04:53:28.525471Z
+txn_6925c96f02f545ad,Riley Rodriguez,riley.rodriguez78@yahoo.com,36.16,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-30T17:50:32.525471Z
+txn_f24a9db62dd24369,Casey Brown,casey.brown28@gmail.com,118.25,USD,succeeded,credit_card,,,2026-07-30T08:08:53.525471Z
+txn_d929464dcd904899,Skyler Davis,skyler.davis3@yahoo.com,113.07,USD,succeeded,debit_card,,,2026-07-26T02:40:07.525471Z
+txn_5055b8e3e47a4e15,Quinn Smith,quinn.smith43@company.com,605.13,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-30T09:49:30.525471Z
+txn_a7bee1ddcb9f40d7,Quinn Johnson,quinn.johnson61@company.com,35.30,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-14T21:30:23.525471Z
+txn_58cadf2881554175,Morgan Rodriguez,morgan.rodriguez52@outlook.com,162.61,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-22T02:32:52.525471Z
+txn_358a08ed5e5d4901,Casey Jones,casey.jones43@hotmail.com,45.52,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-12T07:22:08.525471Z
+txn_b26b0ac79f004ec8,Jordan Rodriguez,jordan.rodriguez32@outlook.com,30.69,USD,succeeded,credit_card,,,2026-08-19T11:02:04.525471Z
+txn_a164881e12ca4e6f,Peyton Brown,peyton.brown77@startup.io,11.82,USD,succeeded,wallet,,,2026-08-29T03:35:27.525471Z
+txn_05a2d4632d474cb6,Jordan Johnson,jordan.johnson68@yahoo.com,226.22,USD,failed,bank_transfer,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-31T11:43:35.525471Z
+txn_85744b4dccb54b5a,Jordan Williams,jordan.williams78@outlook.com,17.87,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-08-22T17:37:20.525471Z
+txn_ea4c16c398494bbf,Peyton Garcia,peyton.garcia50@outlook.com,29.73,USD,succeeded,credit_card,,,2026-08-27T12:10:38.525471Z
+txn_a2cfd9a2a0c84ede,Casey Rodriguez,casey.rodriguez15@hotmail.com,13.21,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-13T12:10:40.525471Z
+txn_8644d7136e7a4f79,Avery Martinez,avery.martinez71@startup.io,242.77,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-29T17:20:41.525471Z
+txn_694964ac049e4728,Morgan Garcia,morgan.garcia96@startup.io,46.61,USD,succeeded,debit_card,,,2026-07-02T04:20:52.525471Z
+txn_dfb7aaa7c4fd4fa2,Skyler Garcia,skyler.garcia63@startup.io,34.27,USD,succeeded,credit_card,,,2026-06-15T20:13:34.525471Z
+txn_8e3476ace4db46c3,Morgan Smith,morgan.smith22@gmail.com,44.28,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-29T11:30:06.525471Z
+txn_8b3a77bfc03b465a,Avery Davis,avery.davis72@hotmail.com,192.93,USD,succeeded,credit_card,,,2026-06-15T11:28:44.525471Z
+txn_13ceb47a02a444f5,Casey Rodriguez,casey.rodriguez73@startup.io,312.85,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-18T14:32:05.525471Z
+txn_854dcd50a6c24a9e,Casey Johnson,casey.johnson42@startup.io,20.71,USD,failed,credit_card,expired_card,The card has expired.,2026-06-25T17:21:33.525471Z
+txn_5769b45c0c854696,Jordan Martinez,jordan.martinez17@yahoo.com,271.01,USD,succeeded,credit_card,,,2026-06-19T14:55:01.525471Z
+txn_cf419ddb1eca41f5,Casey Brown,casey.brown45@gmail.com,92.23,USD,succeeded,credit_card,,,2026-06-07T18:45:43.525471Z
+txn_63e2a3e32c484286,Taylor Smith,taylor.smith10@yahoo.com,71.71,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-21T09:01:21.525471Z
+txn_d5036af186474c13,Alex Jones,alex.jones38@hotmail.com,18.81,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-29T05:26:18.525471Z
+txn_69520ea5696f459c,Jamie Martinez,jamie.martinez43@gmail.com,38.43,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-03T22:23:46.525471Z
+txn_b25a2dc20ac749b4,Morgan Johnson,morgan.johnson31@hotmail.com,10.44,USD,failed,credit_card,expired_card,The card has expired.,2026-07-23T18:27:57.525471Z
+txn_45d4b51aab3a436c,Casey Brown,casey.brown24@gmail.com,84.64,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-24T18:15:07.525471Z
+txn_52e02634a2b54741,Morgan Brown,morgan.brown97@gmail.com,47.36,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-05T12:14:28.525471Z
+txn_ccf6a5eb82ca4ab9,Avery Brown,avery.brown12@yahoo.com,68.51,USD,succeeded,credit_card,,,2026-07-25T04:10:17.525471Z
+txn_7ca917fe5e4f48b5,Cameron Rodriguez,cameron.rodriguez22@hotmail.com,39.26,USD,succeeded,credit_card,,,2026-06-12T08:38:20.525471Z
+txn_2ef30c6d795b4a99,Taylor Miller,taylor.miller84@hotmail.com,31.38,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-06-18T17:51:50.525471Z
+txn_14464ead556f42d1,Quinn Rodriguez,quinn.rodriguez63@company.com,249.53,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-17T10:06:16.525471Z
+txn_a0e092aee156432c,Casey Garcia,casey.garcia41@company.com,14.10,USD,failed,credit_card,stolen_card,The card is reported lost or stolen.,2026-07-11T13:26:34.525471Z
+txn_18534cc62f114a89,Casey Garcia,casey.garcia55@hotmail.com,20.17,USD,succeeded,credit_card,,,2026-08-15T03:39:32.525471Z
+txn_bdb7ce71176c4bd2,Cameron Williams,cameron.williams39@hotmail.com,159.81,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-28T17:00:35.525471Z
+txn_ae40b1128b9f4806,Quinn Miller,quinn.miller73@gmail.com,78.67,USD,succeeded,credit_card,,,2026-07-19T13:00:17.525471Z
+txn_515c1fcd28b144c9,Avery Brown,avery.brown43@yahoo.com,15.69,USD,failed,credit_card,expired_card,The card has expired.,2026-08-14T01:47:35.525471Z
+txn_e7c3ab7b14764d80,Alex Johnson,alex.johnson26@yahoo.com,14.74,USD,succeeded,wallet,,,2026-08-13T11:31:43.525471Z
+txn_ea2a18fb398a4017,Alex Jones,alex.jones34@outlook.com,15.46,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-13T00:41:26.525471Z
+txn_946583014ca74548,Casey Garcia,casey.garcia41@outlook.com,57.49,USD,succeeded,credit_card,,,2026-08-23T16:42:10.525471Z
+txn_478299ba8ec64d05,Morgan Williams,morgan.williams47@hotmail.com,76.58,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-15T08:02:09.525471Z
+txn_c79fd3a5d4684823,Jordan Jones,jordan.jones64@startup.io,41.74,USD,failed,bank_transfer,do_not_honor,The card issuing bank declined the transaction.,2026-09-02T21:48:26.525471Z
+txn_21489eedfbe94aa9,Jamie Williams,jamie.williams81@outlook.com,14.63,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-25T01:29:45.525471Z
+txn_e54e26ff064442a9,Jordan Johnson,jordan.johnson4@company.com,22.37,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-07-28T08:39:24.525471Z
+txn_ac635d80aa164087,Jamie Brown,jamie.brown61@outlook.com,271.00,USD,succeeded,credit_card,,,2026-07-27T14:58:24.525471Z
+txn_115582df5c8b4dc7,Taylor Martinez,taylor.martinez30@outlook.com,37.16,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-04T11:43:50.525471Z
+txn_1d4cea2d10b34d6e,Avery Davis,avery.davis73@gmail.com,42.27,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-07-15T01:20:56.525471Z
+txn_5b4f5037541842a6,Riley Johnson,riley.johnson51@gmail.com,10.32,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-09T15:34:05.525471Z
+txn_879d786e7f9348d2,Casey Jones,casey.jones41@outlook.com,125.41,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-27T19:31:49.525471Z
+txn_979e737f52f54ea4,Quinn Johnson,quinn.johnson31@hotmail.com,16.55,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-06-24T17:23:39.525471Z
+txn_3a00a57502374e28,Cameron Williams,cameron.williams96@company.com,125.96,USD,succeeded,credit_card,,,2026-07-26T13:54:16.525471Z
+txn_c66ebef47b9f47d3,Morgan Brown,morgan.brown37@hotmail.com,45.83,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-07-18T20:36:17.525471Z
+txn_f19a9495af0d468e,Alex Davis,alex.davis58@outlook.com,30.27,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-30T18:46:14.525471Z
+txn_5587308a03444908,Cameron Jones,cameron.jones87@gmail.com,11.22,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-16T04:15:29.525471Z
+txn_73a9d03d0181468e,Skyler Davis,skyler.davis56@outlook.com,48.65,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-16T03:03:03.525471Z
+txn_3c2e2f1d07254dd7,Peyton Davis,peyton.davis18@yahoo.com,30.33,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-17T18:52:21.525471Z
+txn_8cba35df190a4881,Peyton Brown,peyton.brown58@hotmail.com,36.36,USD,succeeded,bank_transfer,,,2026-08-21T06:38:39.525471Z
+txn_edde9c6285d84d23,Cameron Brown,cameron.brown53@gmail.com,28.41,USD,succeeded,debit_card,,,2026-06-21T11:37:39.525471Z
+txn_42395806a2b04243,Cameron Brown,cameron.brown99@startup.io,49.08,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-10T09:42:53.525471Z
+txn_00317665ac294507,Peyton Smith,peyton.smith24@hotmail.com,20.32,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-02T08:39:37.525471Z
+txn_c3c3c0846d574de1,Cameron Rodriguez,cameron.rodriguez23@company.com,32.03,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-07-16T13:56:32.525471Z
+txn_1389b0ed5b9f4371,Cameron Brown,cameron.brown50@company.com,217.35,USD,failed,wallet,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-11T21:37:49.525471Z
+txn_60b1f95ce58b4ac4,Cameron Smith,cameron.smith88@hotmail.com,254.75,USD,failed,wallet,expired_card,The card has expired.,2026-08-13T18:43:41.525471Z
+txn_a71fd04557ef456f,Alex Johnson,alex.johnson72@outlook.com,48.28,USD,failed,wallet,processor_declined,The payment processor declined the transaction.,2026-06-18T10:44:59.525471Z
+txn_465f26e89bc94630,Quinn Smith,quinn.smith10@hotmail.com,24.98,USD,failed,bank_transfer,card_declined,The transaction was declined by the issuer.,2026-07-21T22:19:35.525471Z
+txn_3abf02fda21f487a,Skyler Martinez,skyler.martinez2@gmail.com,110.54,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-20T19:38:21.525471Z
+txn_74c498a692264b0d,Casey Jones,casey.jones95@hotmail.com,45.19,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-19T00:15:50.525471Z
+txn_1de2966ea2054cf9,Jamie Garcia,jamie.garcia7@startup.io,173.56,USD,failed,bank_transfer,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-04T04:01:01.525471Z
+txn_c7ac907ac2f74dbd,Alex Garcia,alex.garcia91@gmail.com,43.08,USD,succeeded,credit_card,,,2026-07-15T12:37:08.525471Z
+txn_d9912fab24dd4a2b,Jordan Jones,jordan.jones43@hotmail.com,252.95,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-06T22:22:40.525471Z
+txn_134ed968687e4099,Morgan Garcia,morgan.garcia80@gmail.com,13.89,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-08T23:44:48.525471Z
+txn_8f0fda75d911406c,Cameron Jones,cameron.jones71@gmail.com,80.23,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-06T09:25:40.525471Z
+txn_7aa6be711fc44c45,Cameron Williams,cameron.williams30@startup.io,44.15,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-09-01T11:45:52.525471Z
+txn_a7fa257096b74d2c,Jamie Jones,jamie.jones4@startup.io,213.99,USD,succeeded,credit_card,,,2026-06-25T06:01:56.525471Z
+txn_14d1e4f1976748f3,Quinn Jones,quinn.jones31@outlook.com,12.35,USD,failed,credit_card,processor_declined,The payment processor declined the transaction.,2026-08-20T13:15:07.525471Z
+txn_ae0a1488bd834e2f,Jordan Jones,jordan.jones22@yahoo.com,24.89,USD,failed,wallet,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-06-24T22:09:22.525471Z
+txn_dd713602911d40cf,Jamie Smith,jamie.smith23@outlook.com,29.92,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-16T14:48:05.525471Z
+txn_a50365c8608a4e75,Casey Smith,casey.smith23@hotmail.com,60.24,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-16T17:27:43.525471Z
+txn_db4608afb2f64df9,Jamie Brown,jamie.brown83@yahoo.com,1474.39,USD,succeeded,credit_card,,,2026-08-02T02:59:24.525471Z
+txn_1f41e03a4b3d4291,Morgan Garcia,morgan.garcia99@hotmail.com,1123.39,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-16T22:36:52.525471Z
+txn_f694b3ec378045df,Riley Rodriguez,riley.rodriguez61@company.com,13.62,USD,failed,debit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-22T04:29:00.525471Z
+txn_4cda63a281c24ee6,Skyler Smith,skyler.smith70@hotmail.com,248.84,USD,succeeded,credit_card,,,2026-07-30T05:06:35.525471Z
+txn_a719e6c5d2fb42fa,Avery Smith,avery.smith20@startup.io,184.58,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-03T06:54:11.525471Z
+txn_847de88fc6de40af,Taylor Brown,taylor.brown55@company.com,154.23,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-08T07:36:04.525471Z
+txn_e69a707d220c4b69,Peyton Brown,peyton.brown56@outlook.com,12.32,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-08-02T01:31:26.525471Z
+txn_8e52bbb598d64a35,Quinn Miller,quinn.miller37@hotmail.com,49.08,USD,failed,bank_transfer,expired_card,The card has expired.,2026-08-04T09:08:20.525471Z
+txn_711b59cbb2374c6f,Riley Smith,riley.smith18@company.com,12.08,USD,failed,credit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-08-13T05:16:52.525471Z
+txn_ccf1a213bb7746f5,Avery Johnson,avery.johnson48@yahoo.com,136.78,USD,failed,bank_transfer,processor_declined,The payment processor declined the transaction.,2026-08-03T02:34:11.525471Z
+txn_b86feeb1566249b9,Taylor Jones,taylor.jones68@hotmail.com,50.10,USD,failed,bank_transfer,expired_card,The card has expired.,2026-08-29T16:58:37.525471Z
+txn_e0d4e03f4a1a4111,Morgan Jones,morgan.jones9@yahoo.com,28.86,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-29T06:06:01.525471Z
+txn_38d50af5ff244005,Quinn Davis,quinn.davis36@company.com,18.85,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-06-13T11:35:46.525471Z
+txn_3ea5df6724974208,Riley Miller,riley.miller63@outlook.com,43.15,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-07-16T15:36:20.525471Z
+txn_4b20d1ec8ccb4fe5,Casey Williams,casey.williams49@gmail.com,171.88,USD,failed,debit_card,card_declined,The transaction was declined by the issuer.,2026-06-30T14:45:23.525471Z
+txn_f6327b27b53b4255,Casey Jones,casey.jones23@yahoo.com,49.94,USD,failed,credit_card,card_declined,The transaction was declined by the issuer.,2026-06-25T00:42:54.525471Z
+txn_0389fc1bc0534cc7,Jamie Garcia,jamie.garcia42@yahoo.com,40.80,USD,failed,debit_card,fraud_suspected,High risk of fraud detected by the issuing bank.,2026-07-28T02:12:27.525471Z
+txn_aa57d4d2d06b46e5,Skyler Martinez,skyler.martinez55@startup.io,47.88,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-06-21T10:41:52.525471Z
+txn_0af0d8e2f0474a06,Casey Smith,casey.smith9@company.com,15.20,USD,failed,credit_card,do_not_honor,The card issuing bank declined the transaction.,2026-08-06T17:25:20.525471Z
+txn_e1d74f40d2d4451e,Jordan Miller,jordan.miller85@hotmail.com,17.56,USD,failed,debit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-06-12T19:11:56.525471Z
+txn_a5030b0fee1b4227,Quinn Smith,quinn.smith83@yahoo.com,34.67,USD,succeeded,debit_card,,,2026-06-07T20:26:28.525471Z
+txn_3a27aa660fa14b66,Avery Johnson,avery.johnson97@startup.io,27.63,USD,succeeded,credit_card,,,2026-06-24T06:35:14.525471Z
+txn_a4551e6c3df747e2,Skyler Brown,skyler.brown3@outlook.com,38.15,USD,failed,wallet,do_not_honor,The card issuing bank declined the transaction.,2026-06-11T21:27:13.525471Z
+txn_7c38988e8b73479e,Jamie Johnson,jamie.johnson4@hotmail.com,76.67,USD,failed,debit_card,processor_declined,The payment processor declined the transaction.,2026-08-15T02:49:52.525471Z
+txn_2e7186c3c2444d4f,Alex Martinez,alex.martinez18@company.com,185.68,USD,succeeded,credit_card,,,2026-06-23T07:35:22.525471Z
+txn_8584ff15da04464d,Taylor Garcia,taylor.garcia83@yahoo.com,25.72,USD,succeeded,credit_card,,,2026-07-02T06:59:30.525471Z
+txn_29e19ef0a6a84e19,Jamie Smith,jamie.smith83@outlook.com,43.23,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-15T17:52:10.525471Z
+txn_7cb86322ad6048b5,Riley Martinez,riley.martinez77@yahoo.com,18.46,USD,failed,debit_card,stolen_card,The card is reported lost or stolen.,2026-07-03T14:59:18.525471Z
+txn_38514d492e0e4f1a,Riley Miller,riley.miller61@startup.io,94.57,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-05T04:26:40.525471Z
+txn_d177256b03884476,Cameron Rodriguez,cameron.rodriguez3@company.com,20.40,USD,failed,credit_card,insufficient_funds,The card has insufficient funds to complete the purchase.,2026-08-10T00:18:47.525471Z
