@@ -1,6 +1,7 @@
 from dataclasses import dataclass, field
 from decimal import Decimal
 
+# pyrefly: ignore [missing-import]
 from sqlalchemy import select
 from sqlalchemy.orm import Session, joinedload
 
