@@ -28,7 +28,7 @@ def main():
         print(f"Action          : {result.action}")
         print(f"Status          : {result.status}")
         print(f"Confidence      : {result.confidence}")
-        print(f"Recovered       : ₹{result.amount_recovered}")
+        print(f"Recovered       : ${result.amount_recovered}")
 
         print("\nMessage:")
         print(result.message)

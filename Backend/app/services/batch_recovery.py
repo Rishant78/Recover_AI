@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field
+from datetime import datetime, timezone
 from decimal import Decimal
 
 # pyrefly: ignore [missing-import]
@@ -176,6 +177,8 @@ def run_batch_recovery(
         if result.status == "recovered":
 
             recovery_case.status = "recovered"
+            recovery_case.resolved_at = datetime.now(timezone.utc)
+            transaction.status = "successful"
 
             record_audit_event(
                 db=db,

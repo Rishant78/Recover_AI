@@ -2,10 +2,10 @@
    Shared formatting utilities
    ============================================================ */
 
-export function formatCurrency(value: number | string, currency = 'INR'): string {
+export function formatCurrency(value: number | string, currency = 'USD'): string {
   const num = typeof value === 'string' ? parseFloat(value) : value
-  if (isNaN(num)) return '₹0.00'
-  return new Intl.NumberFormat('en-IN', {
+  if (isNaN(num)) return '$0.00'
+  return new Intl.NumberFormat('en-US', {
     style: 'currency',
     currency,
     minimumFractionDigits: 0,
@@ -16,7 +16,7 @@ export function formatCurrency(value: number | string, currency = 'INR'): string
 export function formatNumber(value: number | string): string {
   const num = typeof value === 'string' ? parseFloat(value) : value
   if (isNaN(num)) return '0'
-  return new Intl.NumberFormat('en-IN').format(num)
+  return new Intl.NumberFormat('en-US').format(num)
 }
 
 export function formatPercent(value: number | string): string {
@@ -28,7 +28,7 @@ export function formatPercent(value: number | string): string {
 export function formatDate(dateStr: string): string {
   if (!dateStr) return '—'
   const d = new Date(dateStr)
-  return d.toLocaleDateString('en-IN', {
+  return d.toLocaleDateString('en-US', {
     day: '2-digit',
     month: 'short',
     year: 'numeric',
@@ -38,7 +38,7 @@ export function formatDate(dateStr: string): string {
 export function formatDateTime(dateStr: string): string {
   if (!dateStr) return '—'
   const d = new Date(dateStr)
-  return d.toLocaleString('en-IN', {
+  return d.toLocaleString('en-US', {
     day: '2-digit',
     month: 'short',
     year: 'numeric',
