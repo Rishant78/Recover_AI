@@ -4,7 +4,9 @@
   "private": true,
   "description": "RecoverAI - AI-powered payment recovery platform",
   "scripts": {
-    "dev": "npm --prefix Frontend run dev",
+    "dev:frontend": "npm --prefix Frontend run dev",
+    "dev:backend": "cd Backend && uvicorn app.main:app --reload --port 8001",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build": "npm --prefix Frontend run build",
     "preview": "npm --prefix Frontend run preview"
   }
